@@ -1,0 +1,1055 @@
+Case_No,A1,A2,A3,A4,A5,A6,A7,A8,A9,A10,Age_Mons,Qchat-10-Score,Sex,Ethnicity,Jaundice,Family_mem_with_ASD,Who_completed_the_test,res
+1,0,0,0,0,0,0,1,1,0,1,28,3,f,middle eastern,yes,no,family member,Autistic
+2,1,1,0,0,0,1,1,0,0,0,36,4,m,White European,yes,no,family member,Autistic
+3,1,0,0,0,0,0,1,1,0,1,36,4,m,middle eastern,yes,no,family member,Autistic
+4,1,1,1,1,1,1,1,1,1,1,24,10,m,Hispanic,no,no,family member,Autistic
+5,1,1,0,1,1,1,1,1,1,1,20,9,f,White European,no,yes,family member,Autistic
+6,1,1,0,0,1,1,1,1,1,1,21,8,m,black,no,no,family member,Autistic
+7,1,0,0,1,1,1,0,0,1,0,33,5,m,asian,yes,no,family member,Autistic
+8,0,1,0,0,1,0,1,1,1,1,33,6,m,asian,yes,no,family member,NonAutistic
+9,0,0,0,0,0,0,1,0,0,1,36,2,m,asian,no,no,family member,Autistic
+10,1,1,1,0,1,1,0,1,1,1,22,8,m,south asian,no,no,Health Care Professional,Autistic
+11,1,0,0,1,0,1,1,0,1,1,36,6,m,Hispanic,yes,yes,family member,Autistic
+12,1,1,1,1,0,1,1,1,0,1,17,8,m,middle eastern,yes,no,family member,NonAutistic
+13,0,0,0,0,0,0,0,0,0,0,25,0,f,middle eastern,yes,no,family member,Autistic
+14,1,1,1,1,0,0,1,0,1,1,15,7,f,middle eastern,yes,no,family member,NonAutistic
+15,0,0,0,0,0,0,0,0,0,0,18,0,m,middle eastern,no,no,family member,Autistic
+16,1,1,1,0,1,0,1,1,0,1,12,7,m,black,no,no,family member,NonAutistic
+17,0,0,0,0,0,0,0,0,0,0,36,0,m,middle eastern,no,yes,family member,Autistic
+18,1,1,1,0,1,1,1,1,0,1,12,8,f,middle eastern,yes,no,family member,NonAutistic
+19,1,0,0,0,1,0,0,0,0,1,29,3,f,middle eastern,no,no,family member,Autistic
+20,1,1,1,0,1,0,1,1,0,1,12,7,f,black,no,no,family member,Autistic
+21,1,0,0,1,1,1,1,1,1,0,36,7,m,middle eastern,no,no,family member,Autistic
+22,1,0,1,1,1,1,1,0,1,0,36,7,m,middle eastern,no,no,family member,Autistic
+23,1,0,1,1,0,1,0,1,1,1,36,7,m,Native Indian,yes,yes,Health Care Professional,Autistic
+24,1,1,1,0,1,1,0,1,1,0,36,7,m,middle eastern,yes,yes,family member,Autistic
+25,1,1,1,1,1,1,1,1,1,0,22,9,m,White European,no,no,family member,NonAutistic
+26,0,0,0,0,0,0,0,0,0,0,24,0,f,middle eastern,no,no,family member,Autistic
+27,1,1,0,1,1,1,1,1,0,1,36,8,m,middle eastern,no,no,family member,Autistic
+28,1,1,1,1,1,1,1,1,1,1,35,10,m,Others,yes,no,family member,Autistic
+29,0,0,1,1,1,0,1,1,1,1,36,7,m,middle eastern,no,yes,family member,NonAutistic
+30,0,0,0,0,0,0,0,0,0,0,32,0,m,middle eastern,yes,no,family member,NonAutistic
+31,0,0,0,0,0,0,0,0,0,0,18,0,f,middle eastern,no,no,family member,NonAutistic
+32,0,0,0,0,0,0,0,0,0,0,12,0,f,middle eastern,no,no,family member,NonAutistic
+33,0,0,0,0,0,0,0,0,0,1,15,1,f,middle eastern,no,no,Health care professional,NonAutistic
+34,0,0,0,0,0,0,0,0,0,0,12,0,f,middle eastern,no,no,family member,NonAutistic
+35,0,0,0,0,0,0,0,0,0,1,12,1,f,middle eastern,no,no,family member,Autistic
+36,1,1,1,1,1,1,1,1,1,1,15,10,f,middle eastern,no,no,family member,NonAutistic
+37,0,0,0,0,0,0,0,0,0,1,15,1,f,middle eastern,no,no,family member,NonAutistic
+38,0,0,0,0,0,0,0,0,0,0,15,0,f,middle eastern,no,no,family member,NonAutistic
+39,0,0,0,0,0,0,0,0,0,0,15,0,f,middle eastern,no,no,family member,NonAutistic
+40,0,0,0,0,0,0,0,0,0,1,15,1,f,middle eastern,no,no,family member,NonAutistic
+41,0,0,0,0,0,0,0,0,0,1,12,1,f,middle eastern,no,no,family member,NonAutistic
+42,0,0,0,0,0,0,0,0,0,0,15,0,f,black,no,no,family member,NonAutistic
+43,0,0,0,0,0,0,0,0,0,0,15,0,f,black,no,no,family member,NonAutistic
+44,0,0,0,0,0,0,0,0,0,0,15,0,f,middle eastern,no,no,family member,NonAutistic
+45,0,0,0,0,0,0,0,0,0,1,15,1,f,middle eastern,no,no,family member,NonAutistic
+46,0,0,0,0,0,0,1,0,0,1,19,2,m,asian,no,no,family member,NonAutistic
+47,0,0,0,0,0,0,0,0,0,1,18,1,m,middle eastern,yes,no,family member,NonAutistic
+48,0,0,0,0,0,0,0,0,0,1,12,1,f,White European,no,no,family member,NonAutistic
+49,0,0,0,0,0,0,0,0,0,1,14,1,f,White European,no,no,family member,NonAutistic
+50,0,0,0,0,0,0,0,0,0,1,14,1,f,middle eastern,no,no,Self,NonAutistic
+51,0,0,0,0,0,0,0,0,0,1,12,1,m,middle eastern,no,no,family member,NonAutistic
+52,0,0,0,0,0,0,0,0,0,1,12,1,f,middle eastern,no,no,family member,NonAutistic
+53,0,0,0,0,0,0,0,0,0,1,15,1,f,middle eastern,no,no,family member,Autistic
+54,1,1,1,1,1,1,1,1,1,1,12,10,f,middle eastern,no,no,family member,NonAutistic
+55,0,0,0,0,0,0,0,0,0,1,12,1,f,black,no,no,family member,Autistic
+56,0,0,1,1,0,1,1,0,1,1,36,6,f,White European,no,no,family member,Autistic
+57,1,0,0,0,0,1,1,0,1,1,32,5,f,south asian,no,no,family member,Autistic
+58,0,0,0,1,1,1,1,1,1,0,25,6,m,asian,no,no,family member,NonAutistic
+59,0,0,0,0,0,0,0,1,0,1,15,2,f,White European,no,no,family member,NonAutistic
+60,0,0,0,0,0,0,0,0,0,1,13,1,f,middle eastern,no,no,family member,NonAutistic
+61,0,0,0,0,0,0,0,0,0,1,13,1,f,middle eastern,no,no,family member,NonAutistic
+62,0,0,0,0,0,0,0,0,0,1,12,1,f,middle eastern,no,no,family member,Autistic
+63,1,1,0,0,1,1,1,1,1,1,36,8,m,White European,yes,no,family member,Autistic
+64,0,0,1,1,1,1,1,0,0,0,30,5,m,White European,no,no,family member,NonAutistic
+65,0,0,1,1,0,0,0,0,1,0,36,3,m,middle eastern,yes,yes,family member,Autistic
+66,1,1,1,1,1,1,1,0,1,1,12,9,f,White European,no,yes,family member,Autistic
+67,0,0,0,0,1,0,1,1,0,1,36,4,f,middle eastern,yes,no,family member,NonAutistic
+68,0,0,0,0,0,0,0,1,0,0,29,1,m,White European,no,yes,family member,NonAutistic
+69,1,0,1,0,0,0,0,0,0,0,23,2,m,south asian,no,yes,family member,Autistic
+70,1,0,1,1,1,1,1,0,1,1,18,8,f,asian,yes,yes,family member,Autistic
+71,1,1,0,0,1,1,1,1,0,0,34,6,m,Others,no,no,family member,Autistic
+72,0,0,1,1,1,1,1,0,1,1,34,7,m,asian,no,no,family member,Autistic
+73,1,1,1,1,1,1,1,1,1,1,21,10,f,White European,no,no,family member,NonAutistic
+74,0,0,0,0,0,0,0,1,0,0,30,1,m,middle eastern,no,no,family member,Autistic
+75,1,1,0,0,1,0,1,0,0,0,26,4,m,asian,no,no,family member,Autistic
+76,1,0,0,1,1,1,1,1,1,0,19,7,m,middle eastern,no,no,family member,NonAutistic
+77,0,0,0,0,0,0,0,0,0,0,36,0,m,asian,no,no,family member,NonAutistic
+78,0,0,0,0,0,0,0,0,0,0,36,0,m,asian,no,no,family member,NonAutistic
+79,0,0,0,0,0,0,0,0,0,0,36,0,m,asian,no,no,family member,NonAutistic
+80,1,0,0,0,0,0,0,1,0,1,30,3,m,middle eastern,no,no,Health Care Professional,NonAutistic
+81,0,1,0,0,0,0,0,0,0,1,30,2,m,middle eastern,no,no,family member,Autistic
+82,1,0,1,1,0,1,1,1,1,0,29,7,m,asian,no,no,family member,Autistic
+83,1,1,0,1,1,1,1,1,0,1,36,8,f,White European,yes,no,family member,Autistic
+84,1,0,1,1,0,1,1,1,1,0,30,7,m,asian,no,no,family member,Autistic
+85,1,1,0,1,0,1,1,0,0,1,30,6,m,middle eastern,no,no,family member,Autistic
+86,0,0,0,1,1,1,0,0,1,1,23,5,m,White European,yes,yes,family member,NonAutistic
+87,0,0,0,0,0,0,0,0,0,0,22,0,m,middle eastern,yes,yes,family member,NonAutistic
+88,0,0,0,1,0,0,1,0,0,1,20,3,m,middle eastern,no,no,family member,Autistic
+89,1,0,0,0,1,0,1,0,1,0,34,4,m,asian,no,no,family member,Autistic
+90,1,1,1,1,1,1,1,1,1,0,34,9,m,asian,no,no,family member,NonAutistic
+91,0,0,0,0,0,0,0,0,0,1,34,1,m,asian,no,no,family member,NonAutistic
+92,1,0,0,0,0,0,1,0,0,1,34,3,m,asian,no,no,family member,Autistic
+93,1,1,0,0,1,1,1,1,1,0,32,7,m,asian,no,no,family member,NonAutistic
+94,0,0,0,0,0,0,0,1,0,0,36,1,f,Others,yes,yes,family member,Autistic
+95,0,0,0,1,0,0,1,1,1,1,33,5,m,asian,no,no,family member,NonAutistic
+96,0,1,0,0,0,0,0,0,0,1,12,2,f,middle eastern,no,no,family member,Autistic
+97,1,0,1,1,1,1,1,0,1,1,24,8,f,asian,no,no,family member,Autistic
+98,1,0,0,0,1,0,1,1,1,1,34,6,m,asian,no,no,family member,NonAutistic
+99,0,0,0,0,0,0,0,0,0,1,34,1,m,asian,no,no,family member,NonAutistic
+100,0,0,0,0,0,0,0,0,0,1,31,1,f,Others,no,no,family member,NonAutistic
+101,0,0,1,1,0,0,0,0,0,0,24,2,m,middle eastern,no,no,family member,Autistic
+102,0,0,0,0,0,1,1,1,0,1,31,4,f,middle eastern,no,yes,family member,Autistic
+103,1,0,0,1,0,1,1,0,0,1,31,5,f,middle eastern,yes,no,family member,Autistic
+104,1,1,0,0,0,0,0,1,1,0,36,4,m,middle eastern,no,no,family member,Autistic
+105,1,1,0,0,0,1,0,0,0,1,31,4,f,middle eastern,yes,no,family member,Autistic
+106,1,1,1,1,1,1,1,1,1,0,25,9,m,middle eastern,no,no,family member,NonAutistic
+107,0,0,0,0,0,0,0,0,0,1,23,1,f,middle eastern,yes,no,family member,Autistic
+108,1,1,0,0,1,1,0,1,0,1,24,6,m,middle eastern,no,no,family member,Autistic
+109,1,1,0,0,1,1,1,1,0,1,36,7,f,middle eastern,no,no,family member,NonAutistic
+110,0,0,0,0,0,0,0,0,0,1,36,1,f,middle eastern,no,no,family member,NonAutistic
+111,0,0,0,0,1,0,1,0,0,0,12,2,m,middle eastern,no,no,family member,Autistic
+112,0,1,0,0,0,0,1,1,0,1,36,4,m,south asian,no,no,family member,NonAutistic
+113,0,0,0,0,0,0,1,1,0,0,32,2,m,asian,no,no,family member,NonAutistic
+114,0,0,0,0,0,0,1,1,0,0,32,2,m,asian,no,no,family member,Autistic
+115,1,1,0,0,1,1,1,0,1,1,30,7,m,White European,yes,yes,family member,Autistic
+116,0,0,1,1,1,1,1,1,1,1,32,8,m,asian,no,no,family member,Autistic
+117,0,0,1,1,0,0,1,0,0,1,32,4,m,asian,no,no,family member,Autistic
+118,1,1,1,1,1,1,1,1,1,1,29,10,m,White European,no,no,family member,NonAutistic
+119,1,1,0,0,0,1,0,0,0,0,28,3,m,middle eastern,no,no,family member,Autistic
+120,1,1,0,1,1,1,0,0,0,1,18,6,m,Hispanic,yes,yes,family member,Autistic
+121,0,1,0,1,1,0,1,0,0,1,27,5,m,asian,no,no,family member,Autistic
+122,0,1,0,0,0,1,1,1,0,1,27,5,f,White European,no,yes,family member,NonAutistic
+123,0,0,0,0,0,0,0,1,0,0,26,1,f,White European,yes,no,family member,NonAutistic
+124,0,0,0,0,0,1,0,0,0,0,25,1,f,asian,no,no,family member,Autistic
+125,1,1,0,1,1,1,1,0,1,1,19,8,m,White European,no,no,family member,Autistic
+126,1,0,0,0,1,0,1,1,1,1,36,6,m,asian,no,no,family member,NonAutistic
+127,0,0,0,0,0,0,0,0,0,1,25,1,f,White European,no,no,family member,NonAutistic
+128,0,0,0,0,0,0,0,0,0,1,36,1,m,middle eastern,no,no,family member,Autistic
+129,0,0,1,1,1,1,1,0,0,1,17,6,f,White European,yes,no,family member,Autistic
+130,1,1,0,1,1,1,1,0,0,1,36,7,m,middle eastern,no,no,family member,Autistic
+131,1,1,1,0,1,1,1,0,0,1,36,7,f,asian,no,no,family member,Autistic
+132,1,0,1,1,1,0,0,1,1,1,20,7,m,asian,no,no,family member,NonAutistic
+133,0,0,0,0,0,0,0,0,0,0,33,0,f,south asian,yes,no,family member,NonAutistic
+134,1,0,0,0,1,0,0,0,0,0,33,2,f,south asian,yes,no,family member,Autistic
+135,1,1,0,0,1,0,0,1,0,0,33,4,f,south asian,yes,yes,family member,NonAutistic
+136,0,0,0,0,1,0,0,0,0,0,34,1,f,south asian,yes,no,family member,Autistic
+137,1,1,1,1,1,1,1,1,1,1,24,10,m,middle eastern,yes,no,family member,Autistic
+138,0,0,1,1,1,0,0,0,1,0,36,4,m,asian,yes,no,family member,Autistic
+139,1,1,1,1,1,1,1,1,1,0,35,9,m,south asian,no,no,family member,Autistic
+140,1,1,0,0,0,0,0,1,1,0,26,4,f,asian,yes,no,family member,Autistic
+141,1,1,1,1,1,1,1,1,1,0,23,9,m,south asian,no,no,family member,Autistic
+142,1,1,0,1,1,0,1,0,1,1,24,7,m,middle eastern,no,no,family member,Autistic
+143,1,1,0,0,0,1,0,1,0,1,36,5,f,White European,no,no,family member,NonAutistic
+144,0,1,0,0,0,0,1,0,0,1,36,3,f,asian,no,no,family member,NonAutistic
+145,0,0,0,0,1,1,1,0,0,0,26,3,f,middle eastern,yes,no,family member,Autistic
+146,1,1,1,1,1,1,1,1,1,0,23,9,m,asian,no,no,family member,Autistic
+147,1,1,0,1,1,1,0,1,1,0,23,7,m,asian,no,no,family member,NonAutistic
+148,0,0,0,0,0,0,0,0,0,1,12,1,m,asian,no,no,family member,NonAutistic
+149,0,0,0,0,0,0,1,0,0,0,30,1,f,Latino,no,yes,family member,NonAutistic
+150,1,0,0,0,0,0,0,1,0,0,19,2,m,White European,no,no,family member,NonAutistic
+151,0,0,0,0,0,0,0,1,0,1,36,2,f,asian,no,no,Health care professional,Autistic
+152,0,1,0,1,0,0,1,0,0,1,33,4,m,asian,no,no,family member,NonAutistic
+153,0,0,0,1,0,0,1,0,0,1,33,3,m,asian,no,no,family member,Autistic
+154,1,1,1,1,1,1,1,1,1,0,26,9,m,White European,no,no,family member,Autistic
+155,1,1,0,1,0,0,1,0,0,1,33,5,m,asian,no,no,family member,Autistic
+156,1,1,0,1,1,1,1,1,1,1,36,9,m,middle eastern,no,no,family member,Autistic
+157,1,1,1,1,1,1,1,0,1,1,24,9,f,White European,no,yes,family member,Autistic
+158,0,0,1,1,1,1,0,1,1,0,28,6,m,middle eastern,no,no,family member,Autistic
+159,0,1,1,1,0,1,0,1,0,1,36,6,m,asian,no,no,family member,Autistic
+160,0,1,1,1,0,1,1,1,1,1,30,8,m,asian,no,no,family member,Autistic
+161,0,1,0,1,1,1,1,1,1,1,23,8,m,White European,no,no,family member,Autistic
+162,1,0,1,1,1,1,0,0,1,0,12,6,m,White European,yes,no,family member,Autistic
+163,1,1,1,1,1,1,1,0,1,1,29,9,m,White European,yes,no,family member,NonAutistic
+164,0,0,0,0,1,1,1,0,0,0,22,3,m,White European,no,yes,family member,NonAutistic
+165,0,0,0,0,0,0,1,0,0,0,12,1,m,asian,no,no,Health Care Professional,NonAutistic
+166,0,0,0,0,0,0,0,0,0,1,36,1,f,Others,no,yes,family member,NonAutistic
+167,0,1,0,0,0,0,1,0,0,1,36,3,f,asian,no,no,family member,NonAutistic
+168,0,0,0,0,0,0,1,0,0,0,30,1,f,White European,yes,yes,family member,NonAutistic
+169,0,0,0,0,0,0,0,0,0,0,30,0,f,Latino,no,yes,family member,NonAutistic
+170,0,0,0,0,0,0,0,0,0,0,36,0,m,mixed,no,no,family member,NonAutistic
+171,0,0,0,1,1,1,0,0,0,0,19,3,f,mixed,no,no,family member,Autistic
+172,0,1,1,1,1,0,1,0,1,1,23,7,m,middle eastern,no,no,family member,NonAutistic
+173,0,0,0,0,0,0,0,0,0,1,12,1,m,middle eastern,no,yes,family member,NonAutistic
+174,0,1,0,0,0,0,0,0,0,1,36,2,f,White European,yes,yes,family member,NonAutistic
+175,0,1,0,0,0,0,0,0,0,1,36,2,f,White European,yes,yes,family member,Autistic
+176,1,0,0,0,1,1,0,1,0,1,33,5,m,asian,no,yes,family member,NonAutistic
+177,0,0,1,0,1,0,0,0,0,1,33,3,m,asian,no,yes,family member,NonAutistic
+178,0,0,1,0,0,1,0,0,0,0,33,2,m,asian,no,yes,family member,NonAutistic
+179,1,0,1,0,0,1,0,0,0,0,33,3,m,asian,no,yes,family member,NonAutistic
+180,1,0,1,0,0,1,0,0,0,0,33,3,m,asian,no,yes,family member,Autistic
+181,0,1,0,1,0,1,1,1,0,0,12,5,f,White European,no,no,family member,NonAutistic
+182,0,0,0,1,0,0,0,0,0,0,30,1,m,south asian,yes,no,family member,NonAutistic
+183,1,0,0,0,0,1,0,0,1,0,33,3,m,asian,no,yes,family member,NonAutistic
+184,1,0,1,1,0,0,0,0,0,0,30,3,m,south asian,yes,no,family member,Autistic
+185,1,0,1,1,1,1,1,1,1,1,35,9,m,asian,no,no,family member,Autistic
+186,0,0,0,0,1,0,1,0,1,1,12,4,f,White European,yes,no,family member,Autistic
+187,1,0,1,1,1,1,1,1,1,1,30,9,m,asian,yes,no,family member,NonAutistic
+188,1,1,0,0,0,0,0,0,0,1,32,3,m,White European,no,yes,family member,NonAutistic
+189,0,1,0,0,0,0,0,0,0,1,31,2,m,White European,yes,no,family member,NonAutistic
+190,1,1,0,0,0,0,0,0,0,1,31,3,m,White European,yes,no,family member,Autistic
+191,1,0,0,0,1,1,1,0,0,1,24,5,m,White European,no,yes,family member,NonAutistic
+192,0,0,0,0,0,0,1,1,0,1,27,3,f,south asian,no,no,family member,Autistic
+193,1,1,0,0,0,0,1,0,0,1,27,4,f,south asian,no,no,family member,NonAutistic
+194,0,0,0,1,0,0,0,0,0,0,36,1,m,middle eastern,no,no,Health Care Professional,NonAutistic
+195,1,0,0,1,0,1,0,0,0,0,36,3,m,middle eastern,no,no,Health Care Professional,Autistic
+196,1,1,1,1,0,1,1,0,1,1,36,8,f,asian,yes,no,family member,Autistic
+197,1,1,0,1,0,1,1,0,1,0,36,6,f,asian,yes,no,family member,Autistic
+198,1,1,0,0,0,1,1,1,1,1,20,7,m,middle eastern,no,no,family member,Autistic
+199,1,0,1,1,1,1,1,0,1,1,20,8,m,asian,no,no,family member,Autistic
+200,0,1,1,0,1,0,1,0,0,1,35,5,m,middle eastern,no,yes,family member,Autistic
+201,1,1,1,1,1,1,1,1,0,1,36,9,f,asian,no,no,family member,Autistic
+202,1,1,1,1,0,1,1,1,1,1,30,9,f,black,no,no,family member,Autistic
+203,1,0,1,1,1,1,1,0,0,1,30,7,f,black,no,no,family member,Autistic
+204,1,0,0,0,0,0,1,1,0,1,34,4,m,White European,yes,yes,family member,Autistic
+205,1,1,1,1,0,1,1,1,0,0,36,7,m,Latino,yes,no,family member,Autistic
+206,1,1,0,0,0,0,1,0,0,1,15,4,m,middle eastern,yes,no,family member,Autistic
+207,1,1,1,1,1,1,1,0,1,1,36,9,m,White European,no,yes,family member,Autistic
+208,0,0,0,1,1,1,1,1,0,0,36,5,m,White European,no,no,family member,NonAutistic
+209,0,1,0,1,0,1,0,0,0,0,15,3,m,middle eastern,yes,no,family member,NonAutistic
+210,0,0,0,0,1,0,0,0,0,1,36,2,m,south asian,no,no,family member,NonAutistic
+211,0,1,1,1,0,0,0,0,0,0,30,3,m,asian,no,no,family member,Autistic
+212,1,1,0,0,1,1,1,1,1,0,36,7,m,asian,no,no,family member,Autistic
+213,0,1,0,0,1,1,1,1,1,1,36,7,f,middle eastern,no,no,family member,Autistic
+214,1,1,1,1,1,1,1,1,1,1,16,10,f,White European,yes,no,family member,Autistic
+215,0,0,0,0,0,0,1,1,1,1,25,4,m,Hispanic,no,no,family member,NonAutistic
+216,0,0,0,1,0,0,0,1,0,1,35,3,m,middle eastern,no,no,family member,NonAutistic
+217,0,0,0,0,0,1,0,0,1,1,13,3,f,middle eastern,no,no,family member,Autistic
+218,1,1,1,1,1,1,1,0,1,1,25,9,f,White European,no,yes,family member,Autistic
+219,0,1,0,1,1,1,1,1,0,1,22,7,m,black,no,no,family member,Autistic
+220,0,1,1,1,1,1,1,1,0,1,23,8,m,black,no,no,family member,Autistic
+221,1,1,1,1,0,0,1,0,1,0,36,6,f,White European,no,no,family member,NonAutistic
+222,0,0,0,0,0,0,0,0,0,1,28,1,m,middle eastern,no,no,family member,Autistic
+223,1,1,0,0,0,0,0,1,0,1,36,4,m,White European,no,no,family member,Autistic
+224,1,1,1,1,1,1,1,1,1,0,21,9,m,middle eastern,yes,no,family member,Autistic
+225,1,1,1,1,1,1,1,1,0,1,22,9,m,black,no,no,family member,Autistic
+226,0,0,0,0,1,0,1,1,0,1,30,4,f,asian,no,yes,family member,Autistic
+227,1,1,0,1,0,0,1,1,1,1,13,7,m,black,yes,yes,family member,Autistic
+228,1,0,0,1,1,0,1,1,1,1,20,7,f,middle eastern,no,no,family member,Autistic
+229,1,1,0,1,1,1,1,1,1,1,22,9,f,asian,no,no,family member,Autistic
+230,1,0,0,0,1,1,1,0,1,0,33,5,m,asian,no,no,Health Care Professional,Autistic
+231,1,0,0,0,0,1,1,0,1,1,33,5,m,asian,no,no,family member,Autistic
+232,1,0,1,1,1,1,1,1,1,1,36,9,m,asian,no,no,family member,Autistic
+233,1,1,1,1,1,1,1,1,1,1,20,10,m,middle eastern,no,yes,family member,Autistic
+234,0,1,0,1,1,0,0,0,1,0,36,4,m,asian,yes,no,family member,Autistic
+235,0,0,0,1,1,1,1,1,0,1,36,6,m,asian,yes,no,family member,NonAutistic
+236,0,0,0,0,0,0,1,0,0,1,12,2,f,White European,no,no,family member,Autistic
+237,1,1,1,1,0,0,1,1,0,1,36,7,m,asian,no,no,family member,NonAutistic
+238,0,0,0,0,0,0,0,0,0,0,31,0,m,White European,yes,no,family member,Autistic
+239,1,0,0,0,1,1,1,1,0,0,31,5,m,White European,yes,no,family member,NonAutistic
+240,0,0,0,0,0,1,1,1,0,0,31,3,m,White European,yes,no,family member,Autistic
+241,1,1,1,1,1,1,1,1,1,1,15,10,f,middle eastern,no,no,family member,Autistic
+242,0,1,1,1,1,1,0,1,1,0,19,7,f,middle eastern,no,no,family member,Autistic
+243,1,0,1,1,1,1,0,1,1,0,19,7,f,middle eastern,no,no,family member,NonAutistic
+244,0,0,0,0,0,0,0,0,0,1,19,1,f,middle eastern,no,no,family member,Autistic
+245,1,1,1,0,1,1,0,0,1,0,24,6,m,White European,yes,no,family member,Autistic
+246,0,1,1,1,1,0,1,1,1,1,28,8,m,south asian,yes,no,family member,Autistic
+247,1,0,0,1,1,1,0,0,1,1,36,6,m,asian,no,no,family member,Autistic
+248,1,1,1,0,0,1,1,1,1,1,28,8,m,middle eastern,no,yes,family member,Autistic
+249,1,1,1,1,1,1,1,1,1,1,18,10,m,White European,yes,no,family member,NonAutistic
+250,0,0,0,0,1,1,0,0,0,0,26,2,m,asian,no,no,family member,Autistic
+251,1,1,0,1,1,1,1,1,1,1,36,9,m,black,no,yes,Health Care Professional,Autistic
+252,0,0,0,0,1,0,1,1,1,0,23,4,f,asian,no,no,family member,Autistic
+253,0,0,0,1,1,1,1,1,1,1,36,7,m,White European,no,no,family member,Autistic
+254,1,1,1,1,1,1,1,1,0,0,36,8,m,asian,no,no,family member,Autistic
+255,1,1,1,1,1,1,1,1,0,1,31,9,m,White European,no,no,family member,Autistic
+256,1,1,1,1,1,1,1,1,0,1,31,9,m,White European,no,no,family member,Autistic
+257,1,0,1,1,1,0,1,1,1,1,35,8,m,White European,no,yes,family member,NonAutistic
+258,0,1,0,0,0,0,0,1,0,0,36,2,m,middle eastern,no,no,family member,Autistic
+259,1,1,0,0,1,1,1,0,1,1,23,7,m,White European,yes,no,family member,NonAutistic
+260,1,0,0,0,0,1,1,0,0,0,27,3,m,White European,yes,yes,family member,Autistic
+261,1,1,1,0,0,1,1,0,1,1,33,7,f,mixed,no,no,family member,Autistic
+262,1,1,1,1,1,1,1,1,1,0,36,9,m,White European,yes,yes,family member,Autistic
+263,1,0,1,1,0,1,0,0,1,0,30,5,f,middle eastern,no,no,family member,Autistic
+264,1,0,1,1,0,1,0,0,0,0,30,4,m,middle eastern,no,no,family member,NonAutistic
+265,0,0,0,0,0,0,0,0,0,0,24,0,m,middle eastern,no,no,family member,Autistic
+266,0,0,1,1,1,1,1,1,1,0,16,7,f,asian,no,no,family member,NonAutistic
+267,0,0,0,0,1,1,1,0,0,0,36,3,m,asian,yes,no,family member,Autistic
+268,0,1,0,0,1,1,1,1,0,1,36,6,m,asian,no,no,family member,Autistic
+269,0,0,0,1,1,1,1,1,0,0,36,5,m,Latino,no,no,family member,Autistic
+270,1,0,1,1,0,1,1,1,1,1,30,8,m,White European,no,no,family member,NonAutistic
+271,0,0,0,0,0,0,0,0,0,0,36,0,m,mixed,no,no,family member,Autistic
+272,1,1,0,1,0,0,1,0,0,1,29,5,m,black,no,no,family member,NonAutistic
+273,1,0,1,0,0,1,0,0,0,0,36,3,m,asian,no,yes,family member,NonAutistic
+274,1,0,1,0,0,1,0,0,0,0,36,3,m,asian,no,yes,family member,Autistic
+275,1,1,0,1,1,1,1,0,1,1,32,8,m,asian,yes,no,family member,Autistic
+276,1,1,0,0,0,1,1,0,1,0,32,5,m,asian,no,no,family member,Autistic
+277,0,1,0,1,1,1,1,1,1,0,36,7,m,middle eastern,no,no,family member,Autistic
+278,0,1,0,1,1,1,0,1,1,1,36,7,m,middle eastern,no,no,family member,NonAutistic
+279,0,0,0,0,0,0,0,0,0,1,25,1,m,White European,yes,no,family member,Autistic
+280,1,1,1,1,1,1,1,1,1,0,12,9,m,White European,yes,no,family member,Autistic
+281,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,no,no,family member,Autistic
+282,1,1,1,1,1,1,1,1,1,0,27,9,m,White European,no,no,family member,Autistic
+283,1,1,0,1,1,1,1,0,0,1,15,7,f,White European,yes,no,family member,Autistic
+284,1,1,1,1,1,1,1,0,1,1,36,9,f,White European,yes,no,family member,Autistic
+285,1,1,0,0,1,1,1,1,1,1,28,8,m,White European,no,no,family member,NonAutistic
+286,1,1,0,0,0,0,0,0,0,1,24,3,f,Hispanic,no,no,family member,Autistic
+287,0,0,0,0,1,1,1,0,0,1,31,4,m,Hispanic,yes,no,family member,Autistic
+288,0,0,1,1,1,1,1,0,1,1,23,7,m,south asian,no,yes,family member,Autistic
+289,1,1,0,0,0,0,1,0,1,0,36,4,m,White European,yes,no,family member,Autistic
+290,1,1,0,0,0,1,1,0,0,1,26,5,m,White European,yes,no,family member,NonAutistic
+291,0,0,0,0,0,0,1,0,0,0,36,1,f,asian,no,no,family member,Autistic
+292,1,0,0,1,1,0,1,0,1,1,20,6,m,middle eastern,no,no,family member,Autistic
+293,0,0,0,1,0,1,1,0,1,0,20,4,m,middle eastern,no,no,family member,Autistic
+294,1,1,0,0,0,1,1,1,1,0,31,6,f,asian,yes,no,family member,Autistic
+295,0,1,0,0,1,1,1,0,0,1,12,5,f,Hispanic,yes,yes,family member,NonAutistic
+296,0,0,0,0,0,0,0,0,0,0,32,0,m,White European,yes,no,family member,NonAutistic
+297,1,0,0,0,1,0,0,0,0,1,33,3,m,White European,no,no,family member,Autistic
+298,1,1,1,1,0,1,1,1,1,0,36,8,m,middle eastern,yes,yes,family member,Autistic
+299,1,1,1,1,1,1,1,0,1,1,17,9,m,Hispanic,yes,yes,family member,Autistic
+300,1,1,1,1,0,1,1,1,0,1,24,8,f,Hispanic,no,yes,family member,Autistic
+301,1,1,0,1,1,0,1,1,1,1,18,8,f,White European,no,no,family member,Autistic
+302,1,0,1,1,1,1,1,1,1,1,26,9,m,Others,no,yes,family member,Autistic
+303,1,1,0,1,1,0,1,1,1,0,23,7,m,asian,no,no,family member,Autistic
+304,1,1,1,1,1,1,1,0,1,0,21,8,m,asian,no,no,family member,Autistic
+305,1,0,1,1,0,1,1,1,1,0,36,7,m,White European,no,no,family member,NonAutistic
+306,0,0,0,0,0,0,0,1,0,0,36,1,m,asian,no,no,family member,Autistic
+307,0,0,0,0,1,1,1,0,1,1,33,5,m,White European,yes,no,family member,Autistic
+308,1,1,1,1,1,1,1,1,1,1,33,10,m,asian,yes,no,family member,Autistic
+309,1,1,0,0,1,1,1,0,0,0,36,5,m,White European,no,no,family member,Autistic
+310,1,1,1,0,1,0,0,0,1,0,36,5,m,south asian,yes,yes,Health Care Professional,Autistic
+311,0,0,0,0,1,1,1,1,1,1,36,6,m,White European,no,no,family member,Autistic
+312,1,0,0,0,1,1,1,0,1,0,32,5,f,asian,yes,no,family member,Autistic
+313,1,1,1,1,1,1,1,1,1,1,26,10,m,asian,no,no,family member,NonAutistic
+314,0,0,0,0,0,0,0,0,0,0,36,0,f,asian,no,no,family member,Autistic
+315,0,0,1,0,1,1,1,1,1,0,26,6,m,asian,no,no,family member,Autistic
+316,0,0,1,0,1,0,1,1,1,1,26,6,m,asian,no,no,family member,Autistic
+317,0,0,1,1,1,1,1,0,1,1,14,7,m,White European,yes,no,family member,Autistic
+318,0,1,0,1,0,1,1,1,1,1,16,7,m,middle eastern,yes,yes,family member,Autistic
+319,1,1,0,1,0,0,0,1,0,1,28,5,m,White European,yes,no,family member,NonAutistic
+320,0,0,0,0,0,0,0,0,0,0,24,0,m,asian,no,no,family member,NonAutistic
+321,0,0,0,0,0,0,0,0,0,0,21,0,m,asian,no,yes,family member,Autistic
+322,0,1,0,0,1,1,1,0,1,0,30,5,m,asian,no,no,family member,Autistic
+323,1,1,1,1,1,1,1,1,1,1,12,10,f,asian,no,no,family member,Autistic
+324,1,1,1,1,1,1,1,1,1,1,32,10,m,White European,yes,no,family member,Autistic
+325,1,1,0,0,1,0,1,0,0,0,31,4,m,White European,yes,no,family member,Autistic
+326,1,1,0,0,0,1,1,0,1,0,23,5,m,White European,yes,no,family member,NonAutistic
+327,1,0,0,1,0,1,0,0,0,0,29,3,f,middle eastern,no,no,family member,Autistic
+328,0,1,1,1,1,1,0,1,1,0,12,7,m,black,yes,no,family member,NonAutistic
+329,0,0,0,0,0,0,0,0,0,1,13,1,f,Hispanic,no,no,family member,Autistic
+330,1,0,1,1,1,0,1,0,0,0,23,5,m,asian,no,no,family member,Autistic
+331,0,0,1,1,1,1,1,1,1,0,36,7,m,asian,no,no,family member,Autistic
+332,1,1,1,1,1,0,0,0,0,1,36,6,f,White European,yes,no,family member,Autistic
+333,0,1,1,1,1,0,1,0,1,0,26,6,m,asian,no,no,family member,Autistic
+334,1,0,0,0,0,1,1,1,0,1,36,5,f,White European,yes,no,family member,Autistic
+335,0,1,1,1,0,0,0,1,0,0,36,4,m,asian,no,no,family member,NonAutistic
+336,0,1,0,1,0,0,0,0,0,0,36,2,m,asian,no,no,family member,NonAutistic
+337,0,0,0,1,0,0,0,1,0,0,36,2,m,asian,no,no,family member,NonAutistic
+338,0,0,0,1,0,0,0,0,0,0,36,1,m,asian,no,no,family member,Autistic
+339,1,1,1,1,1,1,1,1,1,1,33,10,m,White European,no,yes,family member,Autistic
+340,1,0,1,1,1,1,1,1,1,1,36,9,m,Latino,no,no,family member,Autistic
+341,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,yes,no,family member,Autistic
+342,1,1,0,0,1,1,0,1,1,1,36,7,f,White European,no,no,family member,Autistic
+343,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,no,no,family member,Autistic
+344,1,1,1,1,1,0,1,1,1,1,12,9,m,asian,no,no,family member,Autistic
+345,0,1,0,0,1,1,1,1,1,0,36,6,m,asian,no,no,family member,Autistic
+346,0,0,0,0,1,1,1,1,1,1,36,6,m,asian,no,no,family member,Autistic
+347,1,1,0,0,1,0,1,1,0,0,36,5,m,black,yes,no,family member,Autistic
+348,1,1,0,0,1,0,1,1,1,0,36,6,m,south asian,no,no,family member,Autistic
+349,0,1,0,0,0,1,1,0,1,0,36,4,m,asian,yes,no,family member,NonAutistic
+350,0,0,0,0,0,0,0,0,0,1,13,1,f,middle eastern,yes,no,family member,NonAutistic
+351,0,0,0,0,0,0,0,0,0,1,13,1,f,middle eastern,yes,no,family member,NonAutistic
+352,0,0,0,0,0,0,0,0,0,1,13,1,f,middle eastern,yes,no,family member,NonAutistic
+353,0,0,0,0,0,0,0,0,0,0,36,0,m,asian,no,no,family member,Autistic
+354,1,0,1,1,1,1,0,1,0,0,34,6,m,asian,no,no,family member,NonAutistic
+355,0,0,1,1,0,0,0,0,0,0,36,2,m,asian,no,no,family member,Autistic
+356,1,1,1,1,1,1,1,1,0,0,24,8,m,black,yes,yes,Health Care Professional,Autistic
+357,1,1,0,0,1,1,1,0,1,1,14,7,m,asian,no,no,family member,Autistic
+358,1,1,0,1,1,1,1,0,1,0,14,7,m,asian,no,no,family member,Autistic
+359,1,1,1,1,1,1,1,1,1,1,36,10,m,White European,no,no,Health Care Professional,NonAutistic
+360,0,0,0,0,0,0,0,0,0,0,19,0,f,asian,no,yes,family member,Autistic
+361,0,0,0,1,1,1,1,0,0,0,34,4,m,black,yes,no,family member,Autistic
+362,1,1,1,0,1,1,1,1,1,0,36,8,m,asian,no,no,family member,Autistic
+363,1,0,1,1,1,0,0,0,1,0,32,5,f,Hispanic,no,yes,family member,Autistic
+364,1,1,0,0,1,1,1,1,0,1,36,7,m,asian,no,no,Health Care Professional,Autistic
+365,1,1,1,1,1,1,1,1,0,1,36,9,m,Latino,yes,no,family member,NonAutistic
+366,0,0,1,1,0,0,0,0,0,0,36,2,m,asian,no,no,family member,Autistic
+367,1,1,1,1,1,1,0,1,1,1,36,9,m,asian,no,no,family member,Autistic
+368,1,1,1,1,1,1,0,1,1,1,36,9,m,asian,no,no,family member,Autistic
+369,1,1,0,0,0,1,1,1,1,1,36,7,f,asian,yes,no,family member,Autistic
+370,1,1,0,1,0,1,1,0,0,1,27,6,f,south asian,no,no,family member,Autistic
+371,1,1,1,1,1,1,1,1,1,1,36,10,m,south asian,no,no,family member,Autistic
+372,1,1,1,1,0,1,1,0,1,0,17,7,f,White European,no,no,family member,Autistic
+373,0,0,1,1,1,0,1,0,1,0,35,5,m,middle eastern,yes,no,family member,Autistic
+374,0,0,1,1,1,1,0,0,1,0,30,5,m,asian,no,no,family member,NonAutistic
+375,0,0,0,0,0,1,0,0,0,1,33,2,m,asian,no,no,family member,Autistic
+376,0,0,0,1,1,0,1,0,0,1,30,4,m,asian,no,no,Health Care Professional,Autistic
+377,1,1,1,1,0,1,1,1,0,1,36,8,f,middle eastern,no,no,family member,Autistic
+378,1,0,0,1,1,1,1,0,1,0,30,6,m,asian,no,no,family member,Autistic
+379,0,0,0,1,0,0,1,0,1,1,30,4,m,asian,no,no,family member,NonAutistic
+380,1,0,0,0,0,0,1,0,0,1,30,3,f,south asian,no,no,family member,Autistic
+381,1,0,0,0,0,1,1,0,0,1,30,4,m,Hispanic,no,no,family member,Autistic
+382,1,1,1,1,0,1,1,1,1,0,24,8,m,black,yes,no,family member,NonAutistic
+383,0,0,0,0,0,0,0,0,0,0,36,0,m,White European,no,no,family member,NonAutistic
+384,0,0,0,0,0,1,0,0,0,0,36,1,m,White European,no,no,family member,NonAutistic
+385,0,0,0,0,0,1,1,0,0,1,28,3,f,middle eastern,no,no,family member,Autistic
+386,0,0,0,1,0,1,1,0,0,1,28,4,f,middle eastern,no,no,family member,Autistic
+387,1,1,0,0,1,1,0,1,1,1,26,7,m,White European,yes,yes,family member,Autistic
+388,0,0,1,1,0,0,0,1,0,1,36,4,m,asian,no,no,family member,NonAutistic
+389,0,0,0,0,1,0,1,0,0,1,36,3,m,asian,yes,no,family member,NonAutistic
+390,1,0,0,0,0,1,0,1,0,0,25,3,m,White European,no,no,family member,Autistic
+391,1,1,1,1,1,0,1,1,1,1,32,9,m,asian,no,no,family member,Autistic
+392,1,1,0,0,0,0,1,1,0,1,36,5,m,asian,no,no,family member,Autistic
+393,1,1,0,1,1,1,1,0,0,1,36,7,m,asian,no,no,family member,Autistic
+394,0,0,0,0,0,1,1,1,0,1,36,4,m,Latino,no,no,family member,Autistic
+395,1,1,0,1,1,1,1,1,1,1,36,9,m,White European,no,yes,family member,NonAutistic
+396,0,0,0,0,0,0,0,0,0,0,36,0,f,White European,no,yes,family member,Autistic
+397,0,1,1,0,0,1,0,0,1,1,20,5,m,black,no,yes,family member,Autistic
+398,1,0,0,0,1,1,0,1,0,1,26,5,m,White European,no,no,family member,Autistic
+399,0,0,0,0,1,1,1,0,0,1,32,4,m,White European,yes,no,family member,Autistic
+400,1,0,0,1,1,1,1,0,1,1,24,7,f,south asian,no,no,family member,Autistic
+401,1,1,1,1,1,1,1,1,0,1,35,9,m,White European,no,yes,family member,NonAutistic
+402,0,1,0,0,0,0,0,0,0,1,13,2,m,middle eastern,no,no,family member,Autistic
+403,1,1,0,1,1,1,1,0,1,0,24,7,f,south asian,no,no,family member,Autistic
+404,1,1,1,1,1,1,0,1,1,1,24,9,f,south asian,no,no,family member,Autistic
+405,0,0,1,1,1,1,1,1,1,0,36,7,m,asian,no,no,family member,Autistic
+406,0,0,1,1,1,1,1,1,1,0,36,7,m,asian,no,no,family member,NonAutistic
+407,0,0,0,0,0,0,0,0,0,0,30,0,m,White European,no,no,family member,Autistic
+408,1,0,1,0,1,1,0,1,1,0,36,6,m,asian,no,no,family member,Autistic
+409,0,0,0,1,0,0,1,1,0,1,33,4,m,White European,yes,no,family member,Autistic
+410,1,1,1,1,1,1,1,0,1,0,36,8,m,south asian,no,no,family member,Autistic
+411,1,1,1,1,1,1,1,1,1,0,27,9,m,White European,no,no,family member,Autistic
+412,0,0,0,0,1,1,1,1,0,0,29,4,m,Others,no,no,family member,Autistic
+413,1,1,1,0,0,1,1,0,0,1,36,6,m,White European,no,no,family member,NonAutistic
+414,0,1,0,0,0,0,0,0,0,1,33,2,m,asian,no,no,family member,Autistic
+415,1,1,0,0,0,0,0,1,0,1,33,4,m,asian,no,no,Health Care Professional,NonAutistic
+416,0,0,0,0,0,0,0,0,0,1,27,1,m,White European,no,no,family member,Autistic
+417,0,1,1,1,1,1,1,0,1,1,12,8,m,asian,no,yes,family member,Autistic
+418,1,0,0,0,1,1,1,1,0,0,30,5,f,asian,no,no,family member,NonAutistic
+419,0,0,0,0,0,0,1,1,1,0,34,3,f,asian,no,no,family member,Autistic
+420,1,1,0,0,1,1,1,1,1,1,36,8,m,Others,yes,no,family member,Autistic
+421,1,0,0,1,1,1,0,0,1,1,36,6,m,asian,no,no,family member,Autistic
+422,0,0,0,1,0,1,1,1,1,0,30,5,m,asian,no,no,family member,NonAutistic
+423,0,0,1,0,1,0,0,1,0,0,36,3,m,asian,no,no,family member,NonAutistic
+424,0,0,0,1,1,0,0,1,0,0,36,3,m,asian,no,no,family member,Autistic
+425,1,1,0,1,0,0,1,1,1,1,15,7,m,White European,no,no,family member,Autistic
+426,1,1,1,1,0,1,1,0,1,0,18,7,f,White European,no,no,family member,Autistic
+427,1,0,0,0,0,1,1,1,0,1,36,5,m,asian,no,no,family member,Autistic
+428,1,0,0,0,0,0,1,0,1,1,12,4,m,asian,no,no,family member,Autistic
+429,0,0,1,1,0,0,1,0,1,0,26,4,m,south asian,yes,no,family member,NonAutistic
+430,0,0,0,0,0,0,1,0,0,1,12,2,m,south asian,yes,no,family member,Autistic
+431,1,1,0,1,1,1,1,1,1,1,36,9,m,White European,no,no,family member,NonAutistic
+432,0,1,0,0,0,0,1,0,0,0,35,2,f,asian,yes,no,family member,Autistic
+433,1,1,1,1,0,1,1,1,1,1,36,9,m,middle eastern,no,no,family member,Autistic
+434,1,1,1,1,0,1,0,1,1,1,36,8,m,White European,no,no,family member,Autistic
+435,1,0,0,0,0,0,1,1,1,1,36,5,f,asian,no,no,family member,NonAutistic
+436,1,0,0,0,0,0,1,0,0,1,36,3,m,asian,no,no,family member,Autistic
+437,1,1,0,0,0,1,0,0,1,0,30,4,m,south asian,yes,no,family member,Autistic
+438,0,0,1,1,0,0,1,1,0,1,25,5,m,asian,no,no,family member,Autistic
+439,1,1,0,1,0,1,1,0,0,1,14,6,f,White European,no,no,family member,Autistic
+440,1,1,0,1,0,1,1,0,1,1,14,7,f,White European,no,no,family member,Autistic
+441,1,1,0,1,0,1,1,0,1,1,26,7,f,White European,no,no,family member,Autistic
+442,1,1,0,0,1,1,1,1,1,1,36,8,f,Others,yes,no,family member,Autistic
+443,1,0,0,0,1,0,1,1,1,1,35,6,f,asian,no,yes,family member,Autistic
+444,1,1,0,1,1,0,1,0,0,0,28,5,m,middle eastern,no,yes,family member,Autistic
+445,1,1,0,1,1,1,1,0,0,0,28,6,m,middle eastern,no,yes,family member,NonAutistic
+446,1,0,0,0,1,0,1,0,0,0,36,3,m,White European,no,no,family member,NonAutistic
+447,0,0,0,0,0,0,0,0,0,0,36,0,m,middle eastern,no,yes,family member,Autistic
+448,1,1,1,1,1,1,1,1,1,1,12,10,m,Pacifica,no,no,family member,Autistic
+449,1,1,0,0,1,1,1,0,0,1,36,6,m,White European,yes,no,family member,Autistic
+450,1,0,1,1,1,1,0,1,1,0,19,7,m,asian,no,no,family member,Autistic
+451,0,0,1,1,1,1,1,1,1,1,24,8,f,White European,no,no,family member,Autistic
+452,1,0,0,0,1,1,1,0,0,0,30,4,f,asian,yes,no,family member,Autistic
+453,1,1,0,0,1,1,1,0,1,1,32,7,m,asian,yes,yes,family member,Autistic
+454,1,0,0,1,1,1,1,1,1,1,35,8,m,asian,no,no,family member,NonAutistic
+455,0,0,0,0,0,0,0,0,0,0,35,0,m,asian,no,no,family member,Autistic
+456,1,0,1,1,1,1,0,1,1,1,29,8,m,middle eastern,no,no,family member,Autistic
+457,1,0,1,0,0,1,0,1,0,0,36,4,m,asian,no,yes,family member,NonAutistic
+458,1,0,0,0,0,1,0,0,0,0,36,2,m,asian,no,yes,family member,NonAutistic
+459,1,0,0,0,0,1,0,0,0,0,36,2,m,asian,no,yes,family member,Autistic
+460,0,0,0,1,0,0,1,0,1,1,15,4,f,middle eastern,yes,no,family member,NonAutistic
+461,0,0,0,0,0,0,0,0,1,0,15,1,f,middle eastern,yes,no,family member,NonAutistic
+462,0,1,0,0,0,0,1,0,0,0,36,2,m,middle eastern,no,yes,family member,Autistic
+463,1,1,1,1,1,1,1,0,1,0,19,8,m,asian,no,no,family member,Autistic
+464,0,0,1,0,0,1,1,1,1,1,24,6,m,Hispanic,no,yes,family member,Autistic
+465,1,1,0,1,1,1,1,0,0,1,36,7,m,Hispanic,no,yes,family member,Autistic
+466,0,0,1,1,1,0,1,1,1,1,13,7,m,White European,yes,yes,family member,NonAutistic
+467,0,0,0,0,0,0,1,0,0,1,25,2,m,asian,no,no,family member,Autistic
+468,1,1,1,1,1,1,1,1,1,1,13,10,m,White European,yes,yes,family member,Autistic
+469,1,1,0,1,1,0,1,0,0,1,36,6,m,White European,no,no,Others,Autistic
+470,1,1,0,1,0,0,1,0,0,0,36,4,m,White European,no,no,family member,Autistic
+471,1,1,1,1,0,1,1,1,1,1,36,9,f,White European,yes,no,family member,NonAutistic
+472,1,0,0,0,0,0,0,0,0,0,36,1,m,asian,no,yes,family member,NonAutistic
+473,1,0,1,0,0,1,0,0,0,0,36,3,m,asian,no,yes,family member,NonAutistic
+474,1,0,1,1,0,0,0,0,0,0,36,3,m,asian,no,yes,family member,Autistic
+475,0,0,1,1,0,1,0,0,1,0,17,4,m,asian,no,no,family member,NonAutistic
+476,0,0,1,1,0,0,0,0,0,0,17,2,m,asian,no,no,family member,Autistic
+477,1,0,1,1,1,1,1,1,1,1,22,9,f,White European,no,no,family member,Autistic
+478,0,0,1,1,1,0,1,1,0,0,20,5,m,White European,yes,no,family member,Autistic
+479,1,1,0,0,0,1,0,0,0,1,36,4,m,White European,yes,no,Health Care Professional,NonAutistic
+480,0,0,0,0,0,0,0,0,0,0,15,0,f,middle eastern,yes,no,family member,Autistic
+481,1,1,1,1,1,1,1,1,1,0,36,9,f,south asian,yes,no,family member,Autistic
+482,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,no,no,family member,Autistic
+483,1,0,0,0,1,1,1,1,1,1,30,7,f,asian,yes,no,family member,Autistic
+484,1,0,0,0,0,1,1,1,1,1,30,6,f,asian,no,no,family member,Autistic
+485,1,1,1,1,1,1,1,0,1,1,28,9,m,middle eastern,no,no,family member,Autistic
+486,1,1,0,1,0,1,1,1,1,0,26,7,m,Hispanic,no,yes,family member,Autistic
+487,1,1,1,1,1,1,0,0,1,1,28,8,m,Pacifica,no,no,family member,Autistic
+488,1,1,1,1,1,1,1,0,1,1,36,9,f,Others,no,no,Self,Autistic
+489,1,0,0,0,1,1,1,1,1,0,36,6,m,Hispanic,no,no,family member,NonAutistic
+490,0,0,0,0,0,1,0,0,0,1,12,2,f,Hispanic,no,no,Health care professional,Autistic
+491,1,1,1,1,1,1,1,1,1,1,28,10,m,black,no,no,family member,Autistic
+492,1,1,1,1,1,1,1,1,1,1,36,10,m,black,no,no,family member,Autistic
+493,1,0,0,1,1,0,1,0,1,1,28,6,m,White European,yes,no,family member,NonAutistic
+494,0,0,0,0,0,0,1,0,0,0,28,1,m,White European,yes,no,family member,Autistic
+495,0,1,1,1,1,1,0,1,1,0,24,7,f,asian,yes,no,family member,Autistic
+496,1,1,1,1,1,1,1,1,1,1,34,10,m,Native Indian,yes,no,family member,NonAutistic
+497,0,0,0,1,0,1,1,0,0,0,12,3,f,White European,no,no,family member,Autistic
+498,1,1,1,1,1,0,1,1,1,0,32,8,m,black,no,no,family member,Autistic
+499,1,0,0,1,1,1,0,0,0,1,29,5,m,White European,yes,no,family member,Autistic
+500,1,0,0,0,1,1,1,1,1,0,27,6,m,White European,yes,yes,family member,Autistic
+501,1,1,1,1,1,1,1,1,1,1,25,10,m,White European,no,no,family member,Autistic
+502,1,1,0,0,1,0,0,0,0,1,36,4,m,White European,yes,no,family member,Autistic
+503,0,1,1,1,1,1,1,0,1,1,12,8,m,White European,no,yes,family member,Autistic
+504,1,1,0,1,1,1,0,1,1,0,36,7,m,White European,no,no,family member,NonAutistic
+505,1,0,1,0,1,0,0,0,0,0,36,3,m,White European,no,no,family member,Autistic
+506,0,1,1,0,0,0,0,1,0,1,36,4,m,south asian,no,no,family member,Autistic
+507,0,1,0,1,0,1,0,0,1,0,36,4,m,asian,no,no,family member,Autistic
+508,0,1,0,1,0,1,0,0,1,0,36,4,m,asian,no,no,family member,NonAutistic
+509,0,0,0,0,1,0,0,0,0,1,35,2,m,asian,no,no,family member,Autistic
+510,0,0,0,0,1,1,1,1,0,1,30,5,f,asian,no,no,family member,Autistic
+511,0,0,0,0,1,1,1,1,1,1,35,6,m,asian,no,no,family member,Autistic
+512,1,1,1,1,0,1,1,0,1,1,31,8,f,White European,no,no,family member,NonAutistic
+513,1,0,0,0,0,0,0,0,0,1,12,2,f,south asian,no,no,family member,Autistic
+514,1,0,0,0,1,1,1,0,0,0,36,4,m,asian,no,no,family member,Autistic
+515,1,1,1,1,1,1,1,1,1,1,36,10,m,black,no,no,family member,NonAutistic
+516,1,0,1,0,0,0,0,0,0,0,36,2,m,asian,no,yes,family member,NonAutistic
+517,1,0,1,0,0,0,0,0,0,0,36,2,m,asian,no,yes,family member,Autistic
+518,1,1,0,0,0,1,1,0,0,1,36,5,f,White European,no,no,family member,Autistic
+519,1,1,1,1,1,1,1,1,1,1,26,10,f,Latino,no,no,family member,Autistic
+520,1,1,1,0,1,1,1,1,0,1,22,8,m,asian,no,no,family member,Autistic
+521,1,1,0,0,0,0,1,0,0,1,24,4,m,asian,yes,no,family member,Autistic
+522,0,0,1,1,1,0,0,1,1,0,19,5,m,middle eastern,no,no,family member,Autistic
+523,1,1,1,1,0,0,1,1,1,1,24,8,m,black,yes,no,family member,Autistic
+524,1,0,1,1,1,1,1,0,1,1,21,8,m,White European,yes,yes,family member,Autistic
+525,1,1,1,1,1,1,1,1,1,1,20,10,f,White European,no,no,family member,Autistic
+526,0,0,0,1,1,1,0,1,1,0,30,5,m,middle eastern,no,no,family member,Autistic
+527,0,0,0,0,1,1,1,0,1,1,13,5,f,asian,no,no,family member,Autistic
+528,1,1,1,0,1,1,1,1,1,0,31,8,f,asian,no,no,family member,Autistic
+529,1,1,1,0,1,1,1,1,0,0,31,7,f,asian,no,no,family member,Autistic
+530,1,1,0,1,1,1,1,1,1,0,17,8,m,asian,no,no,family member,NonAutistic
+531,0,0,0,0,0,0,0,0,0,1,12,1,f,middle eastern,no,no,family member,Autistic
+532,1,1,1,1,1,0,1,1,1,1,12,9,f,middle eastern,no,no,family member,NonAutistic
+533,0,0,0,0,0,1,0,1,0,1,13,3,f,middle eastern,yes,no,family member,Autistic
+534,1,1,1,1,1,1,1,1,1,0,13,9,m,Hispanic,yes,no,family member,Autistic
+535,1,1,1,1,1,1,1,1,1,0,13,9,m,Hispanic,yes,no,family member,NonAutistic
+536,0,0,0,0,0,0,0,1,0,0,36,1,m,Hispanic,no,no,family member,NonAutistic
+537,1,0,0,0,0,0,0,0,0,1,36,2,m,Hispanic,no,no,family member,Autistic
+538,1,1,0,1,1,1,0,0,0,0,34,5,m,Others,no,no,family member,Autistic
+539,1,1,0,1,1,1,1,0,0,1,34,7,m,Others,no,no,family member,NonAutistic
+540,0,0,0,0,0,1,0,0,0,0,34,1,f,White European,no,yes,family member,Autistic
+541,1,1,0,0,0,0,1,0,0,1,36,4,m,Hispanic,no,no,family member,Autistic
+542,1,1,0,0,1,0,1,0,0,1,25,5,m,middle eastern,yes,no,family member,Autistic
+543,1,1,0,0,0,0,1,0,0,1,25,4,m,middle eastern,no,no,family member,Autistic
+544,1,1,1,1,1,1,1,1,1,1,24,10,f,black,no,no,family member,Autistic
+545,1,1,0,1,0,1,1,1,0,1,36,7,m,White European,no,no,family member,NonAutistic
+546,0,0,0,0,0,0,0,0,0,1,36,1,f,White European,no,no,family member,Autistic
+547,0,0,0,1,1,1,1,1,1,1,35,7,m,asian,no,yes,family member,Autistic
+548,0,0,0,0,1,1,1,0,1,1,35,5,m,asian,yes,no,family member,Autistic
+549,1,1,1,1,1,1,1,1,1,1,19,10,m,White European,yes,no,family member,Autistic
+550,0,1,1,1,0,0,1,0,1,0,12,5,f,middle eastern,yes,no,family member,Autistic
+551,1,1,0,0,0,1,0,1,0,1,36,5,m,White European,no,yes,family member,NonAutistic
+552,0,0,1,0,0,1,0,0,0,1,12,3,f,south asian,no,no,family member,Autistic
+553,1,0,0,0,1,1,1,0,1,1,36,6,m,asian,no,no,family member,Autistic
+554,1,1,0,1,1,1,1,1,0,1,36,8,m,White European,yes,yes,family member,Autistic
+555,0,1,0,1,1,0,1,0,0,1,36,5,m,White European,yes,yes,family member,Autistic
+556,1,0,1,1,1,1,0,1,1,1,33,8,m,White European,yes,no,family member,Autistic
+557,1,1,0,1,0,0,1,0,1,1,22,6,m,White European,no,yes,family member,Autistic
+558,1,1,0,1,0,1,1,1,1,1,22,8,m,White European,no,no,family member,NonAutistic
+559,0,0,0,0,0,1,1,0,0,0,36,2,f,White European,no,no,family member,Autistic
+560,1,1,1,1,1,1,1,1,1,1,31,10,m,White European,yes,yes,family member,Autistic
+561,1,0,1,1,0,1,1,0,1,1,29,7,f,White European,no,no,family member,Autistic
+562,1,0,0,0,0,0,1,0,1,1,36,4,m,asian,no,no,family member,Autistic
+563,0,0,0,1,1,1,1,0,1,1,36,6,m,asian,no,no,family member,NonAutistic
+564,0,0,0,0,0,0,0,1,0,0,36,1,f,black,no,no,family member,NonAutistic
+565,1,0,0,0,0,0,0,1,0,0,36,2,f,black,no,no,family member,Autistic
+566,1,1,1,1,1,1,1,1,1,1,36,10,m,White European,no,no,family member,Autistic
+567,1,1,1,0,0,1,1,0,1,1,23,7,m,black,yes,no,family member,Autistic
+568,1,1,0,0,1,0,0,1,0,1,36,5,m,White European,yes,no,family member,Autistic
+569,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,yes,no,family member,Autistic
+570,1,1,0,1,0,1,1,1,1,1,35,8,f,asian,no,no,family member,NonAutistic
+571,1,0,0,0,0,0,0,0,0,1,36,2,m,Hispanic,no,no,family member,NonAutistic
+572,1,0,0,0,0,0,1,0,0,1,16,3,m,White European,no,no,family member,NonAutistic
+573,0,1,0,0,0,0,0,1,0,0,36,2,m,White European,yes,no,family member,Autistic
+574,0,0,1,1,0,1,0,1,0,0,32,4,f,White European,yes,no,family member,Autistic
+575,0,1,1,1,1,0,1,1,0,1,36,7,f,White European,yes,yes,family member,Autistic
+576,0,0,0,0,1,1,0,0,1,1,35,4,m,asian,yes,no,family member,Autistic
+577,1,0,1,0,1,1,0,0,1,0,24,5,m,White European,no,no,family member,Autistic
+578,1,0,1,1,1,1,0,0,1,0,24,6,m,White European,no,no,family member,Autistic
+579,1,0,1,0,1,1,0,0,1,0,24,5,m,White European,no,no,family member,Autistic
+580,1,1,1,1,0,1,1,0,1,1,30,8,f,White European,no,no,family member,Autistic
+581,0,0,1,1,0,1,1,0,1,1,26,6,m,White European,no,no,family member,Autistic
+582,1,1,1,1,1,1,1,1,1,1,12,10,m,Others,yes,yes,family member,NonAutistic
+583,0,0,0,1,0,0,1,0,0,1,28,3,m,middle eastern,yes,no,family member,NonAutistic
+584,0,0,0,0,0,0,0,0,0,1,31,1,m,Pacifica,no,no,family member,Autistic
+585,0,0,1,1,1,1,1,1,1,1,36,8,m,White European,no,no,family member,Autistic
+586,1,0,0,0,1,1,1,0,0,1,23,5,m,asian,yes,no,family member,Autistic
+587,1,0,0,0,1,1,1,0,1,0,36,5,m,asian,yes,no,family member,Autistic
+588,0,0,1,1,1,1,1,1,1,1,34,8,f,White European,no,yes,family member,Autistic
+589,0,0,1,1,0,1,0,1,1,1,36,6,m,Hispanic,no,no,family member,Autistic
+590,1,1,0,0,1,1,1,0,0,1,36,6,m,Others,no,no,family member,Autistic
+591,1,0,0,1,1,1,1,0,1,1,36,7,m,White European,yes,no,family member,Autistic
+592,1,1,0,0,0,1,0,0,1,1,36,5,m,asian,no,no,family member,Autistic
+593,1,0,0,0,0,1,0,1,1,1,36,5,m,asian,no,no,family member,NonAutistic
+594,0,0,0,0,0,0,1,0,0,1,36,2,f,Latino,no,no,family member,Autistic
+595,0,1,1,1,1,1,1,1,1,0,36,8,m,black,no,no,family member,NonAutistic
+596,0,0,0,0,0,0,0,1,0,0,36,1,f,black,no,no,family member,NonAutistic
+597,0,0,0,0,0,1,0,0,0,1,36,2,m,White European,yes,yes,family member,Autistic
+598,1,1,0,1,1,1,1,0,1,1,36,8,m,White European,no,no,family member,Autistic
+599,1,1,1,1,1,1,1,0,1,1,36,9,m,Hispanic,no,no,family member,Autistic
+600,1,0,1,0,1,1,1,0,0,1,26,6,m,asian,no,no,family member,Autistic
+601,1,1,1,1,1,1,1,1,1,0,36,9,m,White European,no,yes,family member,NonAutistic
+602,0,0,0,0,1,0,1,1,0,0,36,3,m,Hispanic,no,no,family member,NonAutistic
+603,0,0,0,1,0,0,1,1,0,0,36,3,m,Hispanic,no,no,family member,Autistic
+604,1,1,1,1,1,1,1,1,1,1,27,10,m,White European,yes,no,family member,Autistic
+605,1,1,1,1,1,1,1,1,1,1,36,10,m,asian,no,no,family member,Autistic
+606,1,1,1,1,1,1,1,1,1,1,36,10,m,asian,no,no,family member,NonAutistic
+607,0,0,0,1,0,0,1,0,1,0,36,3,m,asian,no,no,family member,Autistic
+608,0,1,0,1,0,0,0,0,1,1,36,4,m,black,yes,yes,family member,Autistic
+609,0,1,0,1,0,0,0,0,1,1,36,4,m,black,yes,yes,family member,Autistic
+610,1,1,1,1,1,1,1,1,1,1,36,10,m,black,no,yes,family member,Autistic
+611,0,1,0,0,1,1,1,1,1,0,30,6,m,White European,no,no,family member,Autistic
+612,0,1,0,0,0,0,1,1,0,1,26,4,m,mixed,no,no,family member,Autistic
+613,1,1,0,1,1,1,1,1,0,1,25,8,f,Pacifica,yes,no,family member,Autistic
+614,1,1,0,1,1,1,0,1,1,0,20,7,f,south asian,no,no,family member,Autistic
+615,0,0,1,1,1,0,1,1,0,0,20,5,m,asian,yes,no,family member,Autistic
+616,0,0,0,0,1,1,1,1,1,0,20,5,f,asian,no,no,Health care professional,Autistic
+617,1,1,0,1,1,1,1,1,1,1,28,9,m,asian,no,no,family member,Autistic
+618,1,0,0,1,1,1,1,1,1,1,28,8,m,asian,no,no,family member,Autistic
+619,1,1,0,1,1,1,1,1,1,0,28,8,m,asian,no,no,family member,Autistic
+620,1,1,0,1,1,1,1,1,1,1,28,9,m,asian,no,no,family member,Autistic
+621,1,1,1,1,1,1,1,1,1,1,28,10,m,asian,no,no,family member,Autistic
+622,1,1,1,1,0,1,1,0,1,1,36,8,m,White European,yes,no,family member,Autistic
+623,1,1,1,1,1,1,1,1,1,0,29,9,f,Latino,no,no,family member,Autistic
+624,1,1,1,1,1,1,1,1,1,1,30,10,m,Latino,no,no,Others,Autistic
+625,1,1,0,0,1,1,1,0,1,1,27,7,m,White European,no,no,family member,Autistic
+626,1,1,1,1,1,1,1,1,1,1,22,10,f,White European,no,no,family member,NonAutistic
+627,1,0,0,0,0,0,1,0,0,1,22,3,f,White European,yes,no,family member,Autistic
+628,1,0,0,0,0,1,1,0,0,1,22,4,m,Hispanic,yes,no,family member,NonAutistic
+629,0,0,0,0,0,0,1,1,0,1,36,3,f,asian,no,no,family member,Autistic
+630,0,0,0,1,0,0,1,1,0,1,36,4,f,asian,no,no,family member,Autistic
+631,1,1,1,1,1,1,1,1,1,1,36,10,m,asian,no,no,family member,Autistic
+632,0,0,0,1,1,1,1,0,0,0,36,4,m,asian,no,no,family member,Autistic
+633,0,0,0,0,1,1,1,0,1,1,34,5,m,Others,yes,no,family member,Autistic
+634,1,0,0,1,1,0,0,0,0,1,24,4,m,asian,yes,no,family member,Autistic
+635,1,1,1,1,0,1,1,0,0,1,25,7,m,White European,yes,yes,family member,Autistic
+636,1,0,1,0,1,1,1,0,1,0,25,6,m,White European,no,yes,family member,NonAutistic
+637,1,0,0,0,0,0,0,0,0,1,30,2,f,middle eastern,no,no,family member,NonAutistic
+638,0,0,0,0,0,1,0,1,0,0,36,2,f,asian,no,no,family member,NonAutistic
+639,0,0,0,0,1,0,0,1,0,1,32,3,m,black,yes,no,family member,Autistic
+640,0,0,1,1,0,1,1,1,1,0,33,6,m,White European,yes,no,family member,Autistic
+641,0,0,0,0,1,0,0,1,1,1,36,4,m,middle eastern,no,no,family member,NonAutistic
+642,0,0,0,0,0,0,0,0,0,1,12,1,m,middle eastern,no,no,family member,Autistic
+643,1,0,1,1,0,1,1,0,1,0,24,6,f,asian,no,no,family member,NonAutistic
+644,0,0,0,1,0,1,1,0,0,0,25,3,f,asian,no,no,family member,Autistic
+645,0,0,1,1,1,1,0,0,1,0,24,5,f,asian,no,no,family member,Autistic
+646,0,0,1,1,1,1,0,0,1,0,24,5,f,asian,no,no,family member,Autistic
+647,0,1,0,0,1,1,1,1,0,1,29,6,m,White European,yes,no,family member,Autistic
+648,1,1,1,1,1,1,1,1,1,1,28,10,m,south asian,no,no,family member,NonAutistic
+649,0,0,1,1,0,0,0,0,0,1,24,3,m,asian,no,no,family member,Autistic
+650,0,0,1,1,0,0,0,1,0,1,24,4,m,asian,no,no,family member,Autistic
+651,0,0,1,1,0,1,0,0,0,1,24,4,m,asian,no,no,family member,Autistic
+652,1,0,1,1,1,0,1,0,1,0,16,6,f,asian,no,no,family member,NonAutistic
+653,0,0,0,0,0,0,0,0,0,1,12,1,m,White European,yes,yes,family member,Autistic
+654,1,0,1,1,1,1,1,0,0,0,22,6,f,White European,no,yes,family member,Autistic
+655,0,0,1,1,1,1,1,0,0,1,22,6,f,White European,no,yes,family member,Autistic
+656,1,0,0,0,1,1,1,1,0,1,32,6,f,asian,no,no,family member,Autistic
+657,1,1,1,1,1,1,1,0,1,0,18,8,m,middle eastern,yes,no,family member,Autistic
+658,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,no,no,family member,Autistic
+659,0,0,1,1,0,1,1,1,1,1,34,7,m,White European,yes,no,family member,Autistic
+660,0,0,1,1,1,1,1,0,1,1,24,7,f,asian,no,no,family member,Autistic
+661,1,1,1,1,1,1,1,0,1,1,22,9,m,asian,no,no,family member,NonAutistic
+662,0,0,0,0,0,0,0,0,0,1,36,1,m,asian,no,no,family member,Autistic
+663,1,0,0,1,1,1,1,0,0,0,36,5,f,White European,no,no,family member,Autistic
+664,1,0,0,0,1,0,1,1,1,0,14,5,m,asian,yes,no,family member,NonAutistic
+665,0,0,0,0,0,1,0,0,0,1,30,2,m,asian,no,no,family member,Autistic
+666,1,1,0,0,1,1,1,1,1,1,36,8,f,Others,no,no,family member,NonAutistic
+667,0,0,0,0,0,0,0,0,0,0,36,0,f,Others,yes,no,family member,Autistic
+668,1,1,1,1,1,0,1,1,0,0,24,7,m,Others,no,no,family member,Autistic
+669,1,1,1,1,1,1,1,0,1,0,14,8,m,White European,no,no,family member,Autistic
+670,1,1,0,1,1,1,1,0,1,0,14,7,m,White European,no,no,family member,Autistic
+671,1,1,0,0,0,0,1,0,0,1,26,4,f,middle eastern,no,no,family member,Autistic
+672,1,0,0,1,1,0,1,0,1,0,36,5,m,south asian,no,no,family member,Autistic
+673,1,1,1,1,1,1,1,0,0,0,24,7,m,Others,no,no,family member,Autistic
+674,1,0,1,1,1,1,1,1,1,1,33,9,f,asian,no,no,family member,Autistic
+675,1,0,1,0,1,1,1,1,1,1,33,8,f,asian,no,no,family member,NonAutistic
+676,0,0,0,0,0,0,0,1,0,0,24,1,m,asian,yes,no,family member,Autistic
+677,1,1,0,1,0,1,1,1,0,1,32,7,f,White European,no,no,family member,NonAutistic
+678,0,0,0,0,0,0,0,0,0,0,13,0,f,White European,no,yes,family member,Autistic
+679,0,0,1,1,1,1,1,0,1,0,31,6,f,White European,no,no,family member,Autistic
+680,1,0,1,1,0,1,0,1,0,0,17,5,m,asian,yes,no,family member,Autistic
+681,1,1,1,1,1,0,1,1,1,1,19,9,f,White European,yes,no,family member,Autistic
+682,1,1,1,1,1,1,1,1,1,0,19,9,f,White European,yes,no,family member,Autistic
+683,0,1,0,0,1,1,0,1,0,1,29,5,m,White European,no,no,family member,Autistic
+684,1,0,0,0,1,1,1,1,1,1,36,7,m,White European,no,no,Health Care Professional,Autistic
+685,1,1,0,1,1,1,1,1,1,1,14,9,m,White European,yes,no,family member,Autistic
+686,1,0,1,1,1,0,1,1,1,1,16,8,m,black,no,no,family member,Autistic
+687,1,1,1,1,1,1,1,1,1,1,14,10,m,White European,no,no,family member,NonAutistic
+688,0,0,0,0,0,0,1,0,0,0,30,1,m,White European,no,no,family member,Autistic
+689,1,0,1,0,1,0,1,1,0,1,24,6,m,White European,no,no,family member,Autistic
+690,1,1,1,1,1,1,1,1,1,0,36,9,m,asian,yes,yes,family member,Autistic
+691,1,1,0,0,1,1,1,0,1,0,32,6,m,White European,no,no,family member,NonAutistic
+692,0,0,0,0,0,1,1,0,0,0,21,2,f,White European,no,no,family member,NonAutistic
+693,0,0,0,0,0,0,1,0,1,1,36,3,m,south asian,no,no,family member,Autistic
+694,1,1,1,1,1,1,1,1,0,1,27,9,m,Others,yes,yes,family member,Autistic
+695,0,0,1,1,1,1,1,1,1,1,33,8,m,White European,no,no,family member,NonAutistic
+696,0,1,0,0,0,0,0,0,0,1,36,2,m,White European,no,no,family member,NonAutistic
+697,0,1,0,0,1,0,0,0,0,1,29,3,m,White European,no,no,family member,Autistic
+698,1,0,0,1,0,1,1,1,0,1,23,6,m,White European,yes,no,family member,Autistic
+699,1,0,1,1,1,1,1,0,0,1,34,7,m,White European,yes,no,family member,Autistic
+700,1,1,0,0,0,1,1,1,1,1,16,7,f,White European,yes,no,family member,NonAutistic
+701,0,0,1,0,0,0,0,0,0,0,36,1,f,White European,no,yes,family member,NonAutistic
+702,0,0,0,0,0,0,0,0,1,1,26,2,f,White European,yes,no,family member,NonAutistic
+703,0,1,1,0,0,0,0,0,0,1,35,3,f,black,yes,no,family member,Autistic
+704,1,0,1,1,1,1,1,0,1,0,36,7,m,White European,yes,yes,family member,NonAutistic
+705,0,0,0,0,0,0,0,0,0,0,12,0,m,asian,no,no,family member,NonAutistic
+706,0,0,0,0,0,1,0,1,0,0,36,2,f,middle eastern,no,no,family member,Autistic
+707,1,0,0,1,0,0,1,0,1,1,24,5,m,White European,yes,yes,family member,Autistic
+708,1,1,0,1,0,1,1,1,1,0,35,7,m,middle eastern,no,no,family member,Autistic
+709,1,0,1,1,1,0,1,1,1,1,15,8,m,White European,yes,no,family member,Autistic
+710,0,0,1,1,1,0,1,1,1,0,15,6,m,White European,yes,no,family member,NonAutistic
+711,1,0,0,1,0,0,1,0,0,0,27,3,m,south asian,no,no,family member,Autistic
+712,1,1,1,1,1,0,1,0,1,1,12,8,f,White European,no,no,family member,Autistic
+713,1,1,1,1,1,1,1,1,1,1,22,10,m,White European,yes,no,family member,Autistic
+714,1,0,0,0,0,1,1,0,1,0,36,4,m,Others,no,yes,family member,NonAutistic
+715,0,0,0,0,0,1,0,0,0,0,36,1,m,White European,yes,no,family member,NonAutistic
+716,0,0,0,0,0,0,0,0,0,1,15,1,m,asian,no,no,family member,Autistic
+717,0,1,0,1,0,1,1,0,0,0,30,4,m,asian,yes,no,family member,Autistic
+718,1,1,0,1,1,1,1,0,1,1,36,8,m,White European,no,no,family member,NonAutistic
+719,1,1,0,0,0,0,0,0,0,0,17,2,m,asian,no,no,family member,NonAutistic
+720,1,1,0,1,0,0,0,0,0,0,17,3,m,middle eastern,no,no,family member,NonAutistic
+721,1,1,0,0,0,0,0,0,0,0,17,2,m,middle eastern,no,no,family member,Autistic
+722,1,1,0,0,1,1,0,1,1,1,29,7,m,White European,no,no,family member,Autistic
+723,1,1,1,1,1,1,1,1,1,1,26,10,m,Pacifica,no,no,family member,Autistic
+724,1,1,0,0,0,1,1,1,0,1,23,6,m,White European,yes,yes,family member,NonAutistic
+725,0,0,0,0,0,0,1,0,0,1,23,2,m,White European,yes,yes,family member,NonAutistic
+726,0,0,0,0,0,0,0,1,0,1,23,2,m,White European,yes,no,family member,NonAutistic
+727,0,0,0,0,0,0,0,1,0,1,36,2,f,White European,no,no,family member,Autistic
+728,1,1,1,1,1,1,1,1,1,1,15,10,m,south asian,no,no,family member,Autistic
+729,1,1,0,1,1,1,1,1,1,0,25,8,m,White European,no,no,family member,Autistic
+730,0,0,0,1,1,1,1,1,1,1,33,7,f,asian,no,no,family member,NonAutistic
+731,0,0,0,0,1,0,0,0,1,1,12,3,f,White European,no,no,family member,Autistic
+732,0,0,1,1,1,1,1,0,1,1,12,7,f,middle eastern,no,no,family member,Autistic
+733,1,1,0,1,0,1,1,0,0,1,28,6,m,White European,no,no,family member,Autistic
+734,1,1,0,1,1,0,1,1,1,0,36,7,m,middle eastern,no,no,family member,NonAutistic
+735,0,0,0,0,0,1,0,0,0,1,31,2,m,asian,no,yes,family member,Autistic
+736,1,1,1,1,1,1,0,1,1,1,30,9,m,asian,no,no,family member,Autistic
+737,1,0,0,0,1,1,0,0,1,1,30,5,m,asian,no,no,family member,NonAutistic
+738,1,0,0,0,0,0,0,0,0,1,36,2,m,Hispanic,no,no,family member,Autistic
+739,1,1,1,1,1,1,1,1,1,0,36,9,f,middle eastern,yes,no,family member,NonAutistic
+740,0,0,0,0,0,0,0,0,1,1,30,2,m,asian,no,no,family member,Autistic
+741,1,1,1,0,1,1,1,0,0,1,29,7,m,Pacifica,no,yes,family member,NonAutistic
+742,0,0,0,0,0,0,0,0,0,1,22,1,f,middle eastern,no,no,family member,Autistic
+743,0,0,1,0,1,1,1,1,0,1,34,6,f,asian,no,no,family member,Autistic
+744,0,1,1,1,1,1,1,1,0,1,36,8,f,White European,no,no,Self,Autistic
+745,1,1,1,1,1,1,1,0,1,1,31,9,m,White European,no,no,family member,Autistic
+746,1,1,1,1,0,1,1,0,0,1,36,7,f,White European,no,no,family member,NonAutistic
+747,0,0,0,0,0,0,0,0,0,1,22,1,m,middle eastern,no,no,Health Care Professional,Autistic
+748,1,0,1,1,1,1,1,0,1,1,36,8,m,middle eastern,no,no,family member,Autistic
+749,1,1,0,1,1,1,1,1,1,1,12,9,m,Latino,yes,no,family member,Autistic
+750,1,0,0,0,1,1,1,0,1,0,26,5,m,asian,no,no,family member,Autistic
+751,0,0,0,0,1,1,1,0,1,0,36,4,f,Latino,no,no,family member,Autistic
+752,1,0,1,1,1,1,1,1,1,0,36,8,m,asian,yes,no,family member,Autistic
+753,1,1,0,0,1,1,1,1,1,0,28,7,m,south asian,no,no,family member,NonAutistic
+754,0,0,0,0,0,0,0,0,0,0,36,0,f,middle eastern,yes,no,family member,Autistic
+755,1,1,1,1,1,1,0,1,0,1,36,8,f,White European,no,no,family member,Autistic
+756,1,1,1,1,1,1,1,1,1,0,12,9,m,White European,no,yes,Health Care Professional,NonAutistic
+757,1,0,0,0,0,0,1,1,0,0,36,3,m,White European,no,no,family member,Autistic
+758,0,0,1,1,1,1,1,0,0,0,31,5,m,White European,no,no,family member,Autistic
+759,0,0,1,1,1,1,1,0,0,0,31,5,m,White European,yes,no,family member,Autistic
+760,1,1,1,1,1,0,1,1,0,1,22,8,m,south asian,no,no,family member,NonAutistic
+761,0,0,0,1,0,0,1,0,0,1,36,3,m,south asian,no,no,family member,Autistic
+762,1,1,0,0,1,0,1,1,1,1,36,7,m,White European,no,no,family member,Autistic
+763,1,1,1,1,1,1,1,1,1,1,15,10,f,middle eastern,no,yes,family member,Autistic
+764,0,0,1,0,1,1,1,1,0,1,34,6,f,asian,no,no,family member,Autistic
+765,0,0,1,1,1,1,1,1,1,0,14,7,m,White European,yes,no,family member,Autistic
+766,1,0,1,0,0,0,1,1,1,0,27,5,m,asian,no,no,family member,Autistic
+767,1,1,0,1,1,1,1,1,1,1,28,9,m,White European,no,no,family member,Autistic
+768,0,0,1,1,1,1,1,1,1,0,14,7,m,White European,yes,no,family member,NonAutistic
+769,0,0,0,0,0,0,1,0,0,0,15,1,f,asian,no,yes,family member,Autistic
+770,0,0,1,1,1,0,1,0,0,0,31,4,m,White European,yes,no,family member,NonAutistic
+771,0,0,0,0,0,0,0,0,0,0,17,0,f,asian,no,yes,family member,Autistic
+772,1,1,1,1,1,1,1,1,1,0,28,9,m,Others,no,no,family member,Autistic
+773,1,1,0,1,1,1,1,1,1,0,36,8,f,asian,no,no,family member,Autistic
+774,1,0,0,0,0,1,1,0,0,1,26,4,f,Others,no,no,family member,Autistic
+775,1,0,1,1,1,1,1,0,1,0,15,7,m,White European,no,no,family member,Autistic
+776,0,1,1,1,0,1,1,1,1,0,12,7,m,Hispanic,no,no,family member,Autistic
+777,0,1,0,0,0,0,1,1,0,1,16,4,m,White European,yes,no,family member,Autistic
+778,1,0,1,1,1,1,1,1,1,1,28,9,m,White European,no,no,family member,Autistic
+779,0,0,1,0,1,1,1,1,0,1,34,6,f,asian,no,no,family member,Autistic
+780,1,1,1,1,1,1,1,1,1,0,24,9,m,asian,no,no,family member,Autistic
+781,1,1,1,1,0,1,1,0,0,1,22,7,m,middle eastern,yes,yes,family member,Autistic
+782,0,0,1,1,0,0,1,0,0,1,36,4,f,asian,yes,no,family member,Autistic
+783,1,1,1,1,1,1,1,1,1,1,29,10,m,White European,no,no,family member,NonAutistic
+784,0,0,0,0,0,0,1,1,0,1,36,3,m,White European,no,no,family member,NonAutistic
+785,0,0,0,0,0,0,1,0,0,1,22,2,m,White European,yes,yes,family member,Autistic
+786,0,0,1,1,1,1,1,1,1,0,14,7,m,White European,yes,no,family member,NonAutistic
+787,1,0,0,0,0,0,0,0,0,0,34,1,m,White European,yes,yes,family member,Autistic
+788,0,0,0,1,1,0,1,1,1,0,36,5,m,asian,no,no,family member,Autistic
+789,1,1,1,0,1,0,1,0,0,0,35,5,m,Others,no,no,family member,Autistic
+790,1,0,0,0,0,0,1,1,0,1,35,4,f,White European,yes,no,family member,Autistic
+791,1,0,0,0,0,1,1,0,0,1,31,4,f,White European,no,yes,family member,Autistic
+792,1,1,0,1,1,1,1,0,1,1,36,8,m,asian,yes,no,family member,NonAutistic
+793,1,0,0,0,0,1,1,0,0,0,36,3,m,asian,no,no,family member,Autistic
+794,1,1,1,1,1,1,1,0,1,1,15,9,m,mixed,no,no,family member,Autistic
+795,1,1,1,1,0,1,1,0,1,1,36,8,f,White European,no,no,family member,Autistic
+796,0,0,1,0,0,1,1,1,1,1,36,6,f,middle eastern,no,yes,family member,Autistic
+797,1,1,1,1,1,1,1,1,1,1,36,10,f,middle eastern,yes,no,family member,NonAutistic
+798,1,0,0,0,0,0,1,0,0,1,27,3,m,White European,no,no,family member,Autistic
+799,0,0,0,0,1,0,1,0,1,1,36,4,m,Others,yes,no,family member,Autistic
+800,1,1,0,1,1,1,1,1,1,1,24,9,f,south asian,no,no,family member,Autistic
+801,1,1,0,1,1,1,1,0,0,0,24,6,f,south asian,no,no,family member,Autistic
+802,1,0,0,1,0,1,1,0,0,1,23,5,f,asian,no,no,family member,Autistic
+803,1,0,0,0,1,1,1,1,1,0,34,6,f,asian,no,no,family member,Autistic
+804,1,0,1,1,1,1,1,1,1,1,13,9,m,black,yes,yes,family member,NonAutistic
+805,0,0,0,0,0,0,0,0,0,0,36,0,f,black,no,yes,family member,Autistic
+806,1,1,0,0,1,1,1,0,1,1,36,7,m,White European,no,no,family member,Autistic
+807,1,1,0,0,1,1,1,0,1,1,36,7,m,White European,no,yes,family member,Autistic
+808,1,1,0,0,1,1,1,0,1,1,36,7,m,White European,no,yes,family member,Autistic
+809,1,1,1,1,1,1,1,0,1,1,16,9,m,middle eastern,no,no,family member,Autistic
+810,1,1,1,1,0,1,1,0,1,1,24,8,f,White European,no,no,family member,NonAutistic
+811,0,0,0,0,0,0,1,0,0,1,36,2,m,White European,no,yes,family member,Autistic
+812,1,1,1,1,0,1,0,0,0,1,20,6,m,White European,yes,yes,family member,Autistic
+813,1,0,1,1,1,1,1,1,0,1,28,8,m,middle eastern,no,no,family member,Autistic
+814,1,1,1,1,1,1,1,1,1,0,29,9,m,asian,no,no,family member,NonAutistic
+815,0,0,0,0,0,0,0,0,0,0,25,0,m,asian,no,no,family member,NonAutistic
+816,0,0,0,0,0,0,1,0,1,0,24,2,f,middle eastern,no,no,family member,Autistic
+817,1,0,0,0,1,0,1,1,1,0,24,5,m,White European,no,no,family member,NonAutistic
+818,1,1,0,0,0,1,0,0,0,0,36,3,m,middle eastern,no,no,family member,Autistic
+819,1,1,1,1,1,1,1,1,1,0,19,9,m,middle eastern,no,no,Health Care Professional,Autistic
+820,1,0,0,0,1,1,1,1,1,1,34,7,f,asian,no,no,family member,Autistic
+821,0,0,0,1,0,1,1,1,1,0,18,5,m,asian,no,yes,family member,NonAutistic
+822,0,0,1,1,0,0,0,0,1,0,36,3,m,White European,no,no,family member,NonAutistic
+823,0,0,0,0,0,1,1,0,1,0,24,3,f,middle eastern,no,no,family member,Autistic
+824,1,1,0,0,0,0,1,0,1,1,36,5,f,White European,no,yes,family member,NonAutistic
+825,0,0,0,0,0,0,0,1,0,0,30,1,f,middle eastern,no,no,family member,NonAutistic
+826,0,0,0,0,0,0,0,0,0,1,36,1,m,White European,no,no,family member,NonAutistic
+827,1,0,0,0,0,0,1,0,0,0,25,2,f,asian,no,no,family member,NonAutistic
+828,0,0,0,0,0,0,1,0,0,1,14,2,m,middle eastern,no,no,family member,Autistic
+829,1,1,1,1,1,1,1,1,1,1,14,10,m,middle eastern,no,no,family member,Autistic
+830,0,0,1,1,1,0,1,1,1,0,14,6,m,White European,yes,no,family member,Autistic
+831,0,0,1,1,1,0,0,1,0,0,35,4,m,asian,no,no,family member,Autistic
+832,1,1,1,1,1,1,1,1,1,1,35,10,m,asian,no,no,family member,Autistic
+833,1,1,1,1,1,1,1,1,1,0,19,9,f,Hispanic,no,no,family member,NonAutistic
+834,0,0,0,1,0,0,0,0,0,0,31,1,f,middle eastern,yes,no,family member,NonAutistic
+835,0,0,0,1,0,0,0,0,0,0,31,1,f,middle eastern,yes,no,family member,NonAutistic
+836,0,0,0,1,0,0,0,0,0,0,31,1,f,middle eastern,yes,no,family member,Autistic
+837,1,1,1,1,1,1,1,1,1,1,29,10,m,White European,no,no,family member,Autistic
+838,1,0,0,0,1,1,1,1,1,0,36,6,m,White European,no,no,family member,NonAutistic
+839,0,0,0,0,0,0,0,0,0,0,28,0,m,middle eastern,no,no,family member,Autistic
+840,1,0,1,1,0,1,1,0,0,0,26,5,m,White European,no,no,family member,Autistic
+841,1,1,0,0,0,0,1,1,0,0,28,4,m,middle eastern,no,no,family member,NonAutistic
+842,0,1,0,0,1,0,0,0,0,0,32,2,m,middle eastern,no,no,family member,Autistic
+843,1,1,1,1,1,1,1,1,1,1,36,10,m,Latino,no,no,family member,Autistic
+844,0,1,0,0,1,1,0,0,1,0,36,4,m,White European,no,no,family member,Autistic
+845,0,0,1,1,1,1,1,1,1,1,18,8,m,Hispanic,no,no,family member,NonAutistic
+846,0,0,0,0,0,0,1,0,0,1,21,2,m,middle eastern,yes,no,family member,NonAutistic
+847,0,0,0,0,0,0,1,0,0,1,21,2,m,middle eastern,yes,no,family member,Autistic
+848,1,0,0,0,0,1,1,0,0,1,21,4,m,middle eastern,yes,no,family member,Autistic
+849,1,1,1,1,1,1,1,0,1,1,32,9,m,Hispanic,no,no,family member,Autistic
+850,0,0,0,0,0,1,1,1,1,0,36,4,m,asian,no,no,family member,NonAutistic
+851,0,0,0,0,0,0,0,0,0,0,20,0,m,asian,yes,no,family member,Autistic
+852,1,1,1,0,1,0,1,0,1,1,27,7,m,asian,yes,no,family member,Autistic
+853,1,1,0,1,1,0,1,1,1,0,18,7,m,black,yes,yes,family member,Autistic
+854,0,0,0,1,1,1,0,1,0,0,24,4,m,asian,no,no,family member,NonAutistic
+855,0,1,0,0,0,1,0,0,0,0,36,2,f,White European,yes,no,family member,NonAutistic
+856,0,0,0,0,0,0,0,0,0,0,36,0,f,White European,yes,no,family member,Autistic
+857,1,1,0,0,1,1,1,0,0,0,36,5,m,asian,no,no,family member,Autistic
+858,0,0,1,1,1,1,1,0,1,0,22,6,f,Others,no,no,family member,Autistic
+859,1,1,1,1,1,1,1,1,1,1,30,10,m,White European,yes,yes,family member,Autistic
+860,1,1,1,1,1,1,1,1,1,1,19,10,m,White European,yes,no,family member,Autistic
+861,1,1,1,1,1,1,1,1,1,1,16,10,m,White European,no,no,family member,Autistic
+862,1,1,0,1,1,1,1,1,1,1,26,9,f,middle eastern,no,no,family member,Autistic
+863,1,1,1,1,1,1,0,1,1,1,24,9,f,Hispanic,no,no,family member,Autistic
+864,0,0,1,0,1,1,1,0,1,1,30,6,f,Others,yes,no,family member,NonAutistic
+865,1,0,0,0,1,0,0,0,0,1,12,3,m,middle eastern,yes,no,family member,Autistic
+866,1,1,0,1,1,1,1,0,1,0,26,7,f,White European,no,no,family member,Autistic
+867,1,1,1,1,1,1,1,1,1,1,30,10,m,White European,yes,yes,family member,NonAutistic
+868,0,0,0,0,0,0,0,0,0,1,36,1,m,White European,no,no,family member,Autistic
+869,1,1,1,1,0,0,1,1,0,1,36,7,f,mixed,yes,no,family member,Autistic
+870,0,1,0,1,0,1,1,1,1,1,36,7,f,mixed,yes,no,family member,NonAutistic
+871,0,0,0,0,0,0,1,0,0,0,30,1,f,Latino,no,no,family member,Autistic
+872,1,1,1,1,1,1,1,1,1,1,21,10,m,White European,yes,no,family member,Autistic
+873,1,1,0,0,0,1,1,1,1,1,36,7,m,White European,no,no,family member,NonAutistic
+874,0,0,0,0,0,0,0,0,0,0,36,0,m,Others,no,no,family member,Autistic
+875,0,0,1,1,0,0,0,1,1,0,31,4,m,south asian,no,no,family member,Autistic
+876,0,0,1,1,1,1,1,0,1,1,30,7,f,Others,yes,no,family member,Autistic
+877,1,1,1,1,1,1,1,1,1,1,30,10,f,Others,no,no,family member,Autistic
+878,0,0,0,1,1,1,0,0,1,1,33,5,m,White European,no,no,family member,Autistic
+879,1,1,0,0,1,1,1,1,1,0,26,7,m,White European,no,yes,family member,NonAutistic
+880,1,0,0,0,0,0,0,0,0,1,12,2,f,middle eastern,no,no,family member,Autistic
+881,1,1,0,0,0,1,1,0,0,1,36,5,m,White European,yes,no,family member,NonAutistic
+882,1,1,0,0,0,0,1,0,0,0,36,3,m,Hispanic,no,no,family member,Autistic
+883,1,1,1,1,1,0,1,0,1,0,36,7,m,asian,no,no,family member,Autistic
+884,0,0,0,1,1,1,1,1,0,0,24,5,f,White European,no,no,family member,NonAutistic
+885,0,0,0,0,0,0,0,0,0,0,36,0,m,Others,no,no,family member,Autistic
+886,1,1,1,1,1,1,1,1,1,1,24,10,m,south asian,no,no,family member,Autistic
+887,0,0,1,1,1,0,0,1,0,1,36,5,m,Others,no,no,family member,Autistic
+888,0,1,1,0,1,0,1,0,1,0,34,5,f,black,no,no,family member,NonAutistic
+889,0,1,1,0,1,0,0,0,0,0,34,3,f,black,yes,no,family member,NonAutistic
+890,0,1,1,0,1,0,0,0,0,0,34,3,f,black,no,no,family member,Autistic
+891,1,1,1,1,1,1,1,1,1,1,24,10,m,White European,no,no,Health Care Professional,NonAutistic
+892,0,0,0,0,0,0,0,0,0,0,24,0,m,black,no,no,family member,Autistic
+893,0,0,0,1,1,1,0,1,0,1,29,5,m,asian,no,no,family member,Autistic
+894,1,1,1,1,1,1,1,1,1,1,20,10,m,middle eastern,no,yes,family member,Autistic
+895,0,0,0,0,1,1,1,1,0,1,30,5,m,Latino,yes,no,family member,NonAutistic
+896,0,0,0,0,0,0,0,0,0,0,26,0,f,south asian,no,no,family member,Autistic
+897,0,1,1,1,0,1,1,1,1,1,36,8,m,middle eastern,no,no,family member,Autistic
+898,1,1,1,1,1,1,1,1,1,1,30,10,m,White European,yes,no,family member,Autistic
+899,1,1,1,1,0,1,1,1,1,1,27,9,f,White European,no,no,family member,Autistic
+900,1,0,1,1,1,1,1,1,1,1,23,9,m,Latino,no,no,family member,Autistic
+901,1,0,1,1,0,1,1,1,1,1,23,8,m,Latino,no,no,Health Care Professional,Autistic
+902,0,0,1,1,1,0,1,0,1,0,36,5,f,south asian,no,no,family member,Autistic
+903,1,1,1,1,0,1,1,0,1,1,22,8,f,Pacifica,yes,no,family member,Autistic
+904,1,1,0,1,0,1,1,0,1,1,36,7,f,White European,no,no,family member,Autistic
+905,1,1,0,0,1,0,1,1,1,0,36,6,m,Hispanic,no,no,family member,Autistic
+906,0,0,0,1,0,1,1,1,1,1,26,6,m,black,no,no,family member,NonAutistic
+907,0,0,0,0,0,0,0,0,0,0,28,0,f,black,no,no,family member,Autistic
+908,1,1,1,1,1,1,1,1,1,1,21,10,m,asian,no,no,family member,Autistic
+909,1,1,0,0,0,0,1,0,1,1,25,5,m,White European,yes,no,family member,Autistic
+910,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,yes,no,family member,Autistic
+911,1,1,1,0,0,0,1,0,1,0,13,5,f,Latino,no,no,family member,Autistic
+912,0,0,1,1,1,1,1,1,1,0,15,7,m,White European,yes,no,family member,Autistic
+913,1,1,0,0,0,1,1,0,0,1,23,5,m,White European,no,no,family member,NonAutistic
+914,0,0,0,0,0,0,0,0,1,0,24,1,m,asian,no,no,family member,Autistic
+915,0,0,1,1,0,0,0,0,1,1,24,4,m,asian,no,no,family member,Autistic
+916,1,0,1,1,1,1,1,0,1,1,36,8,m,Hispanic,no,yes,family member,NonAutistic
+917,0,0,0,0,0,0,1,0,0,1,12,2,m,asian,yes,no,family member,Autistic
+918,1,0,1,1,1,1,1,1,1,0,29,8,m,White European,yes,no,family member,Autistic
+919,0,1,1,1,1,1,1,1,1,0,36,8,m,middle eastern,yes,yes,family member,NonAutistic
+920,0,0,0,0,1,0,1,0,0,1,36,3,m,south asian,no,no,family member,NonAutistic
+921,0,0,0,0,0,0,0,1,0,1,27,2,m,asian,no,yes,family member,Autistic
+922,1,1,1,1,0,0,1,1,0,1,32,7,m,asian,no,no,family member,NonAutistic
+923,0,0,0,0,0,1,1,1,0,0,12,3,m,Latino,no,no,family member,Autistic
+924,1,0,0,1,0,1,1,1,1,0,36,6,m,White European,yes,no,family member,Autistic
+925,1,0,0,1,0,1,1,0,1,0,36,5,m,Others,yes,no,family member,Autistic
+926,1,1,0,0,1,1,1,0,1,1,36,7,m,asian,no,no,family member,Autistic
+927,1,0,1,1,0,0,0,0,1,0,12,4,m,White European,no,no,family member,NonAutistic
+928,0,0,1,1,1,0,0,0,0,0,12,3,m,White European,no,no,family member,NonAutistic
+929,1,0,0,1,0,0,0,0,1,0,12,3,m,White European,no,no,family member,Autistic
+930,0,0,1,1,1,0,0,0,1,0,12,4,m,White European,no,no,family member,NonAutistic
+931,0,0,1,1,1,0,0,0,0,0,12,3,m,White European,no,no,family member,NonAutistic
+932,0,0,0,0,0,1,1,0,0,1,20,3,m,south asian,no,no,family member,NonAutistic
+933,0,0,0,0,0,1,1,0,0,1,36,3,f,asian,no,no,family member,NonAutistic
+934,0,0,0,0,0,1,1,0,0,1,36,3,f,asian,no,no,family member,NonAutistic
+935,0,0,0,1,0,0,0,1,0,0,36,2,m,White European,yes,no,family member,Autistic
+936,1,1,0,1,1,1,1,0,1,1,32,8,m,asian,no,no,family member,Autistic
+937,0,0,0,0,1,1,0,1,0,1,35,4,f,asian,no,no,family member,NonAutistic
+938,0,0,1,0,0,0,0,0,0,1,19,2,m,middle eastern,no,no,family member,Autistic
+939,1,0,1,0,0,0,1,0,0,1,20,4,m,middle eastern,no,no,family member,NonAutistic
+940,1,0,1,0,0,0,0,0,0,1,20,3,m,middle eastern,no,no,family member,NonAutistic
+941,1,0,0,0,0,0,0,0,0,0,12,1,m,White European,no,no,family member,NonAutistic
+942,1,0,0,0,0,0,0,0,0,1,12,2,m,White European,no,no,family member,NonAutistic
+943,0,0,0,0,0,0,0,0,0,0,12,0,m,White European,no,no,family member,Autistic
+944,1,1,1,1,1,1,1,1,1,0,12,9,m,White European,no,no,family member,Autistic
+945,1,1,0,0,0,1,0,0,0,1,36,4,m,asian,no,no,Health Care Professional,Autistic
+946,0,0,1,1,1,1,1,1,1,0,15,7,m,White European,yes,no,family member,Autistic
+947,1,1,0,0,1,0,1,1,1,1,36,7,m,White European,no,no,family member,Autistic
+948,0,0,0,0,1,1,0,0,1,1,36,4,m,Native Indian,no,no,family member,NonAutistic
+949,0,0,0,0,0,0,1,0,0,1,24,2,m,middle eastern,no,no,family member,NonAutistic
+950,0,0,0,0,1,0,1,0,0,1,36,3,f,White European,no,no,family member,Autistic
+951,1,1,1,1,1,1,1,1,0,1,27,9,m,black,no,yes,family member,Autistic
+952,1,1,1,1,1,1,1,1,0,1,27,9,m,black,no,yes,family member,Autistic
+953,1,1,0,0,1,0,0,1,1,0,36,5,m,south asian,no,no,family member,Autistic
+954,1,0,0,0,1,1,0,1,0,1,35,5,f,asian,no,no,family member,NonAutistic
+955,1,0,0,0,1,0,0,0,0,0,18,2,m,black,no,no,family member,Autistic
+956,1,1,1,1,1,1,1,1,1,0,36,9,f,White European,no,no,family member,Autistic
+957,1,1,1,1,0,0,0,1,0,0,22,5,f,Hispanic,no,no,family member,Autistic
+958,1,1,0,1,1,1,1,1,1,1,29,9,m,south asian,yes,no,family member,NonAutistic
+959,0,1,0,0,0,0,1,0,0,0,36,2,m,asian,no,no,family member,Autistic
+960,0,1,0,0,1,1,1,0,0,0,36,4,m,asian,no,no,family member,Autistic
+961,1,1,0,1,1,1,1,0,0,0,27,6,m,White European,no,yes,family member,Autistic
+962,0,0,1,1,1,0,1,1,1,0,26,6,f,White European,no,no,family member,Autistic
+963,1,1,0,1,0,1,1,1,1,1,26,8,m,middle eastern,yes,no,family member,NonAutistic
+964,0,0,0,0,1,0,0,0,0,1,36,2,m,south asian,yes,no,family member,Autistic
+965,1,0,1,1,1,1,1,0,1,0,16,7,m,White European,no,yes,family member,Autistic
+966,1,0,1,1,0,1,1,1,0,0,28,6,m,asian,no,no,family member,Autistic
+967,1,0,1,1,1,1,0,1,1,0,18,7,m,White European,no,no,family member,NonAutistic
+968,1,0,0,0,0,0,1,0,1,0,36,3,m,south asian,no,no,family member,Autistic
+969,0,0,0,0,1,1,0,1,0,1,35,4,f,asian,no,no,family member,NonAutistic
+970,1,0,0,0,0,0,1,0,0,1,30,3,m,middle eastern,no,no,family member,Autistic
+971,1,0,0,0,0,0,1,1,0,1,30,4,m,middle eastern,no,no,family member,Autistic
+972,1,1,0,0,0,1,0,1,0,1,33,5,m,middle eastern,no,no,family member,NonAutistic
+973,0,0,0,1,0,0,0,0,0,0,24,1,m,White European,no,no,family member,Autistic
+974,1,1,0,1,1,1,0,1,0,1,36,7,m,White European,yes,yes,family member,Autistic
+975,1,0,0,0,0,0,1,1,1,1,36,5,m,White European,no,yes,family member,Autistic
+976,1,1,1,0,0,0,1,1,0,0,24,5,m,black,no,no,Others,Autistic
+977,1,1,0,1,0,0,0,0,0,1,16,4,f,Latino,no,no,family member,NonAutistic
+978,0,0,0,0,0,1,1,0,0,1,24,3,m,White European,no,no,family member,Autistic
+979,1,0,1,1,1,1,0,1,1,0,30,7,m,White European,yes,no,family member,Autistic
+980,1,1,1,1,1,1,1,0,0,0,36,7,m,asian,no,no,family member,Autistic
+981,1,0,1,0,1,1,1,0,1,1,24,7,m,middle eastern,yes,no,family member,Autistic
+982,0,0,0,1,1,0,1,1,0,1,36,5,m,south asian,yes,no,family member,Autistic
+983,1,1,1,1,1,1,1,0,1,0,36,8,m,asian,no,no,family member,Autistic
+984,1,1,1,1,1,1,1,1,1,1,34,10,f,White European,no,no,family member,Autistic
+985,1,0,1,1,0,1,1,0,1,0,24,6,m,White European,no,no,family member,Autistic
+986,1,1,1,0,1,1,0,0,1,1,23,7,m,White European,no,no,family member,NonAutistic
+987,1,0,0,1,0,0,0,0,0,0,12,2,m,White European,no,no,family member,Autistic
+988,1,1,1,1,1,1,1,0,1,1,30,9,f,middle eastern,no,no,family member,Autistic
+989,0,0,0,0,1,0,1,1,0,1,36,4,m,south asian,yes,no,family member,Autistic
+990,1,0,1,1,1,1,1,1,1,1,35,9,f,middle eastern,no,no,family member,Autistic
+991,1,0,1,1,1,1,1,0,1,1,35,8,f,middle eastern,no,no,family member,Autistic
+992,1,1,1,1,1,1,1,0,0,1,33,8,m,White European,no,no,family member,Autistic
+993,1,0,0,1,0,0,1,0,0,1,34,4,m,asian,yes,no,family member,Autistic
+994,1,1,1,1,1,1,1,1,1,1,24,10,f,Latino,no,no,Health care professional,Autistic
+995,1,1,0,0,0,0,0,0,1,1,36,4,m,White European,yes,no,family member,NonAutistic
+996,0,0,0,0,0,0,0,0,0,0,36,0,m,middle eastern,no,no,family member,NonAutistic
+997,0,1,0,0,0,0,0,0,0,1,36,2,m,middle eastern,yes,no,family member,NonAutistic
+998,0,0,0,1,0,0,0,0,1,1,36,3,m,asian,no,no,family member,Autistic
+999,1,0,1,1,1,0,1,0,1,1,33,7,f,middle eastern,no,no,family member,Autistic
+1000,0,1,1,1,0,1,0,0,0,0,23,4,f,Pacifica,yes,no,family member,NonAutistic
+1001,0,0,0,0,0,1,0,0,0,1,36,2,m,Latino,no,no,family member,Autistic
+1002,1,0,0,0,1,1,0,1,0,1,34,5,f,asian,no,no,family member,Autistic
+1003,0,0,0,0,1,1,1,1,0,0,36,4,m,black,yes,no,Self,Autistic
+1004,1,0,0,1,1,0,1,0,1,0,27,5,m,White European,no,no,family member,Autistic
+1005,1,1,1,1,1,1,1,1,0,0,36,8,m,black,no,yes,family member,Autistic
+1006,1,0,1,1,1,0,1,0,0,1,24,6,m,asian,no,no,family member,Autistic
+1007,1,0,1,1,1,0,1,0,0,1,24,6,m,asian,no,no,family member,NonAutistic
+1008,0,0,0,1,0,0,1,0,0,1,34,3,f,White European,no,yes,family member,Autistic
+1009,1,1,1,1,1,1,1,1,1,0,32,9,m,south asian,yes,yes,family member,Autistic
+1010,1,0,1,1,0,0,1,0,0,1,24,5,m,asian,no,no,family member,Autistic
+1011,0,1,1,1,1,1,1,1,1,1,30,9,m,Latino,no,no,family member,Autistic
+1012,0,1,0,0,1,1,0,0,1,0,36,4,m,White European,no,yes,family member,NonAutistic
+1013,0,0,0,0,0,0,1,0,0,1,32,2,m,south asian,no,no,family member,Autistic
+1014,1,1,1,1,1,1,1,1,1,0,30,9,m,middle eastern,no,no,family member,Autistic
+1015,1,0,0,0,0,1,1,1,1,0,30,5,f,White European,no,no,family member,Autistic
+1016,0,0,1,1,0,0,1,0,1,0,24,4,m,Latino,no,no,family member,Autistic
+1017,0,1,0,0,1,0,1,1,0,1,36,5,m,Hispanic,no,no,family member,Autistic
+1018,1,1,0,0,0,1,1,1,0,1,36,6,f,asian,no,no,family member,NonAutistic
+1019,0,0,1,1,0,0,0,0,1,0,21,3,m,asian,no,no,family member,Autistic
+1020,1,1,0,0,1,1,1,0,0,1,36,6,m,asian,no,no,family member,NonAutistic
+1021,0,0,0,0,1,0,0,0,1,0,19,2,f,White European,yes,yes,family member,Autistic
+1022,0,1,1,1,1,1,1,1,0,0,12,7,m,White European,no,no,family member,NonAutistic
+1023,0,0,0,0,0,0,0,0,0,0,36,0,f,White European,no,yes,family member,Autistic
+1024,1,1,0,0,0,0,0,1,0,1,36,4,m,White European,no,yes,family member,NonAutistic
+1025,0,0,0,0,0,0,0,0,0,1,35,1,m,asian,yes,no,family member,NonAutistic
+1026,0,0,0,0,0,0,1,1,0,1,23,3,m,asian,yes,no,family member,NonAutistic
+1027,0,0,0,0,0,0,0,0,0,1,36,1,m,White European,no,no,family member,Autistic
+1028,0,0,1,1,1,0,0,1,1,0,29,5,m,White European,no,no,family member,Autistic
+1029,0,0,1,1,1,1,0,0,1,0,22,5,f,Latino,no,no,family member,Autistic
+1030,1,1,0,1,0,1,1,1,1,1,36,8,m,White European,no,yes,family member,NonAutistic
+1031,0,0,0,0,1,0,0,1,0,1,36,3,m,south asian,yes,no,family member,Autistic
+1032,1,1,0,0,0,1,1,1,0,1,36,6,f,Others,no,yes,family member,Autistic
+1033,1,0,1,1,1,0,1,0,0,0,32,5,m,White European,yes,no,family member,NonAutistic
+1034,0,0,0,0,0,1,0,0,0,1,16,2,m,south asian,yes,yes,Health Care Professional,NonAutistic
+1035,0,0,0,0,0,0,0,1,0,0,28,1,m,White European,no,no,family member,Autistic
+1036,1,0,0,1,0,1,1,1,0,0,18,5,m,Others,yes,no,family member,Autistic
+1037,1,1,0,1,0,1,1,1,0,0,14,6,f,asian,no,no,family member,NonAutistic
+1038,0,0,1,0,0,0,0,0,0,0,12,1,m,White European,no,no,family member,Autistic
+1039,1,1,0,0,0,0,1,0,1,0,26,4,m,asian,no,yes,family member,Autistic
+1040,0,0,0,0,1,1,1,0,1,0,26,4,m,asian,no,yes,family member,NonAutistic
+1041,0,0,0,0,0,0,0,0,0,1,25,1,m,White European,no,no,family member,NonAutistic
+1042,0,0,0,1,0,0,1,0,0,0,25,2,m,White European,yes,no,family member,Autistic
+1043,1,1,1,1,0,0,1,1,1,1,30,8,m,Hispanic,yes,no,family member,Autistic
+1044,1,1,1,1,1,1,1,1,1,1,25,10,m,asian,no,yes,family member,Autistic
+1045,1,1,1,1,1,1,1,1,1,1,25,10,m,asian,no,yes,family member,Autistic
+1046,1,1,1,1,1,1,1,1,1,1,30,10,m,middle eastern,no,no,Health Care Professional,Autistic
+1047,0,1,0,1,1,1,1,1,1,0,24,7,f,middle eastern,no,no,family member,Autistic
+1048,1,1,0,0,1,1,1,0,0,0,30,5,f,White European,no,no,family member,NonAutistic
+1049,0,0,0,0,0,0,0,0,0,0,30,0,f,White European,no,no,family member,NonAutistic
+1050,0,0,0,0,0,0,0,0,0,1,24,1,f,White European,no,yes,family member,Autistic
+1051,0,0,1,1,1,0,1,0,1,0,12,5,m,black,yes,no,family member,Autistic
+1052,1,0,1,1,1,1,1,1,1,1,18,9,m,middle eastern,yes,no,family member,NonAutistic
+1053,1,0,0,0,0,0,0,1,0,1,19,3,m,White European,no,yes,family member,Autistic
+1054,1,1,0,0,1,1,0,1,1,0,24,6,m,asian,yes,yes,family member,NonAutistic
